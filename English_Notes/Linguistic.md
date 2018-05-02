@@ -312,7 +312,7 @@
   - Back-formation 逆构法
 ##Syntax
 ####Definition of syntax 
-- The study of the rules governing how words are combined to be form sentences in a language ,or simply, the study of the formation of sentences 
+- The study of the rules governing how words are combined to be form sentences in a language , or simply, the study of the formation of sentences 
 ####Syntactic relations
 - Positional relation(word order)
   - Definition : it refers to the sequential arrangement of words in a language 
@@ -333,9 +333,16 @@
 - Tests for constituenthood
 - Tree diagram/ bracketing 
 ####Endometric and exocentric constructions 
+
+> Eg: The boy smiled.
+>
+> $[IP, [spec(the boy), I', [I(-ed), VP(smile)]]]$
+>
+> 
+
 ####Syntactic function
 ####Category 
-##Semantics
-##Pragamatics 
-##Language , culture and society
+##Semantics (语义学)
+##Pragmatics (语用学) 
+##Language, culture and society
 ##Schools of modern linguistics 
