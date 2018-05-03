@@ -32,54 +32,47 @@
 
 #### 2. Between countries: comity
 
-Held that a court could request compliance by a foreign sovereign as a matter of comity, but could not order compliance
+​	Held that a court could request compliance by a foreign sovereign as a matter of comity, but could not order compliance.
 
-Comity requires that we respect other countries sovereignty and law so that they will respect ours.
+​	Comity requires that we respect other countries sovereignty and law so that they will respect ours.
 
 - U.S. Courts Apply Comity and Refuse to Take Jurisdiction When:
   - The defendant is a sovereign state
   - Defendant has insufficient contacts with the U.S. 
   - Another judicial forum is more convenient 
   - Congress did not intend U.S. statute to apply extraterritorially (治外法权地)
-  - Case concerns act of sovereign state on its own territory 
+  - The case concerns act of sovereign state on its own territory 
 
 #### 3. Some country separates another country, how to divide their right?
 
 With a change in sovereignty over territory, several legal consequences arise and we apply the following rules.
 
-· Successor states are bound by **dispositive treaties**- treaties concerned with rights over territory (boundaries & servitudes)
+- Successor states are bound by **dispositive treaties**-treaties concerned with rights over territory (boundaries & servitudes)
 
-**·** **Merge Rule**- treaties in effect in a former state remain in effect in its territory when in a former state remain in effect in its territory when it becomes part of a new state
+- Merge Rule - treaties in effect in a former state remain in effect in its territory when in a former state remain in effect in its territory when it becomes part of a new state
 
-  · Ex. Treaties of both Egypt and Syria remained in effect when they merged into the United Arab Republic 
+  > Eg: Treaties of both Egypt and Syria remained in effect when they merged into the United Arab Republic 
 
-**· Moving Boundaries Rule**- treaties of state absorbing new territory become effective within absorbed territory
+- Moving Boundaries Rule - treaties of state absorbing new territory become effective within absorbed territory
 
-  · Ex. France’s treaties displaced German treaties in annexed territory of Alsace-Lorraine at end of WWI 
+  > Eg: France's treaties displaced German treaties in annexed territory of Alsace-Lorraine at end of WWI 
 
-**· Clean State Doctrine **– new state created from colony not bound by treaties of its former colonial power
+- Clean State Doctrine – new state created from colony not bound by treaties of its former colonial power
 
- Succession of State **– when two states agree to join and form single state or when a state dissolve into two or more states, the new states are bound by the predecessor’s treaties.
+- Succession of State – when two states agree to join and form single state or when a state dissolve into two or more states, the new states are bound by the predecessor’s treaties.
 
-> Eg: When the Soviet Union split in 1991, the 12 republics were bound by the existing treaties of the Soviet Union
+> Eg: When the Soviet Union split in 1991, the 12 republics were bound by the existing treaties of the Soviet 		Union
 
 #### 4. The difference of IGO and NGO
 
-#### 5. EU/UN organization
-
 International Persons – International Organization 
 
-· According to the United National Charter, there are two kinds of international organizations:
-
-1. Intergovernmental organization (IGO)
-
-2. Private or nongovernmental organization (NGO)
-
-· IGO is a permanent organization set up by two or more states to carry on activities of common interest 
-
-· NGO is an international organization made up of organizations other than states.
-
-· May be nonprofit NGO or for-profit multinational enterprise (MNE)
+- According to the United National Charter, there are two kinds of international organizations:
+  - Intergovernmental organization (IGO)
+  - Private or nongovernmental organization (NGO)
+- IGO is a permanent organization set up by two or more states to carry on activities of common interest 
+- NGO is an international organization made up of organizations other than states.
+- May be nonprofit NGO or for-profit multinational enterprise (MNE)
 
 International Persons-IGOs
 
@@ -97,7 +90,7 @@ International Persons-IGOs
 
  · IGO must be recognized to have legal capacity – the qualification or authority to deal with other international persons
 
- 
+####EU/UN organization
 
 The United States
 

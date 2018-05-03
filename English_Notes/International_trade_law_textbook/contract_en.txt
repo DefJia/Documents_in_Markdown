@@ -1,0 +1,1700 @@
+C H A P T E R 4
+The Formation and Performance of Contracts for the Sale of Goods
+
+
+
+INTRODUCTION TO CONTRACTS FOR THE INTERNATIONAL SALE OF GOODS
+.......................................................................
+
+The sales contract is universally recognized as the legal mechanism for conducting trade in goods. The con-tract for purchase and sale embodies the agreement of the parties, the buyer and seller. It expresses their in-tention to be bound by the contract’s terms, commits them to perform their part of the bargain, and makes them responsible for breach of contract if they do not. The sales contract is essential because it sets out rights and liabilities that may extend well into the future. Any agreement to buy and sell goods, especially an interna-tional one, usually takes some time to perform. If buyer and seller could do all that was required at the moment the agreement was reached, or if every seller handed over the goods at the moment the purchase price was paid, there would be far less need for a detailed sales contract. In the real world, however, the risks are usu-ally too great to begin performance without first reach-ing an agreement on all essential terms, especially when the contract extends well into the future.
+
+The contract allows buyer and seller to agree on all essential terms of the contract in advance, and to begin performance, knowing there is an understanding of their rights and obligations. The contract might call for shipment at a future date, or for several shipments to be made over many years. The seller might need time to secure raw materials, or to gear up for the engineering and design phase, and for manufacturing. The buyer may want to arrange advance financing for the purchase, to plan future deliveries to meet production schedules, do advance marketing, or plan the introduction of new products. Whatever the case, both buyer and seller can proceed with some confidence, knowing their contract is sealed.
+
+86
+
+
+During the negotiating process the parties can tend to the details of the contract, air their concerns, and negotiate an agreement on all the terms important to them. After all, there are more details to consider besides quantity and price. There are payment terms, shipping and insurance arrangements, specifications and warranties, remedies on default, and more. There is the question of who will bear the risk of loss if the goods are destroyed in transit. Hopefully, everything will go well and neither party will ever have to pull out the document and read its fine print. Yet if perfor-mance breaks down, and a dispute arises, that is the first thing the parties and their attorneys will do. If the case proceeds to litigation and a court or arbitrator must resolve their dispute, they will look to the governing law of sales to interpret and enforce the contract.
+
+CULTURAL INFLUENCES ON
+CONTRACT NEGOTIATIONS
+.......................................................................
+
+An important factor to keep in mind throughout this chapter is the influence of culture upon contract nego-tiations. Americans tend to approach contract negotia-tions in an aggressive, adversarial manner and often view negotiations as a win-lose proposition. Similarly, U.S. lawyers, who are accustomed to practicing in a highly litigious society, press for every legal advantage. They draft their contracts in calculated, technical, and detailed language, setting forth exactly how the parties are to perform and what their legal rights are if the deal falls apart.
+
+Negotiating Contracts in Japan
+
+By contrast, contract negotiations in many countries take a much different form. Japan presents perhaps the best example. Three aspects of Japanese culture and ancient Confucian thinking tremendously
+
+
+Copyright 2014 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
+
+Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
+
+Chapter 4: The Formation and Performance of Contracts for the Sale of Goods	87
+
+
+
+
+influence the role of a contract in Japanese society. First, every person must strive to maintain harmony and accord in society. Second, the maintenance of harmony and the importance placed on personal dignity stress the importance of not causing others to “lose face” or become embarrassed. Third, the Japanese attach the utmost importance to the social group to which one belongs, particularly to one’s school or company. Thus, group loyalty and the desire for group harmony and consensus may characterize Japanese businesspeople.
+
+These attributes affect the way the Japanese view contractual relationships. A contract is a relationship, and as much a social one as a business one. Instead of the combative approach of U.S. lawyers, Japanese negotiators view the contract as an expression of a common goal and of a desire for a long-lasting business relationship.
+
+These cultural and societal influences affect the manner in which contracts are negotiated and drafted. Japanese firms normally prefer that lawyers not be involved in negotiating, because they feel that lawyers interfere with the parties’ concentration on their mutual business interests. Western negotiators also must remember that they must never put the other parties in a situation in which losing face is the only out such as making demands without offering something in exchange.
+
+In addition, a Western company must be prepared to carry out negotiations for an extended period. In many cases, the Japanese firm will require a long time to reach a group consensus before a decision can be made. The U.S. managers may not realize that, while they have the authority to bind their firm to the agreement, the foreign negotiator may require approval from superiors or from a working group. When doing business in Asia, the watchwords are not only “trust” and “respect” but “patience” as well.
+
+When the contract is finally put into writing, it is typically short and written in little detail. The Japanese consider this necessary because a long-term relation-ship requires a flexible agreement, and one that the parties can easily modify in the future.
+
+These attitudes also affect the manner in which contract disputes are resolved. Japanese contracts might state that, in the event of a dispute, “the parties will resolve their disagreement harmoniously and in mutual consultation with each other.” If a dispute arises, it is more likely to be settled through private conciliation. Litigation is to be avoided if at all possible.
+
+
+
+THE LAW OF SALES
+.......................................................................
+
+The Origin of Modern Sales Law
+
+Sales law, or the law of sales , is generally that body of law which governs contracts for the present or future sale of goods. In most countries, the term sale means a transfer of the ownership and possession of tangible goods (sometimes referred to simply as “things which are movable” or “tangible personal property”) from seller to buyer in return for a price or monetary payment. The “law of sales” does not apply to contracts for the sale of real estate or intangibles, such as stocks, bonds, patents, copyrights, and trade-marks. It does not apply to contracts of employment, of insurance, or to the provision of services. The reason for the distinction, as we will see, is that sales law developed out of the practices of merchants and traders who dealt in goods. Generally speaking, courts look to the governing sales law to determine whether a valid and enforceable agreement exists, how to interpret contractual provisions, what remedies are available in the event of a breach, and what damages can be awarded. Sales law is a sub-category of both contract law and commercial law. Today, the sales law of most nations can be found in modern statutes, or codes, supplemented by extensive case decisions. Surprisingly, many countries, particularly developing countries, have newly enacted sales codes that have only recently replaced outdated codes from the nineteenth and early twentieth centuries. Several Latin American countries have only recently modernized their codes, which dated to the mid-1800s. China’s modern sales law is a little more than ten years old.
+
+The Law Merchant and English Sales Law. In the twelfth century, medieval Europe experienced a renaissance of trade and commerce. Merchants met at trade fairs and city markets to exchange goods such as wool, salted fish, cotton cloth, wine, fruit, and oils. Trade routes to the East were opening, with access to silk and spices. Rudimentary banking systems were founded so that money could be used as payment in long-distance transactions. Over time, the merchants developed a set of customs for exchanging goods for money—an unwritten code that protected their words, gave them the benefit of their bargains, and helped foster commerce and trade. These customs became known as the lex mercatoria or law merchant, and they were “enforced” by the merchants themselves.
+
+
+Copyright 2014 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
+
+Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
+
+88Part 2: International Sales, Credits, and the Commercial Transaction
+
+
+
+
+In the centuries to follow, the local courts in both England and continental Europe recognized the law merchant and used juries made up of other merchants to decide cases. As trade spanned greater distances, merchants took on greater risks, and transactions required more complex legal rules. In England, by the eighteenth century, the law merchant became a part of the common law when noted English jurist Lord Mansfield ruled that it was up to the English courts to say what the law merchant was and not merely what merchants thought it to be. In continental Europe, the law merchant gave way early on to more formal legal codes enacted by legislatures in the nineteenth century, based on legal concepts dating to the Roman period.
+
+More than a hundred years after the merger of the law merchant with the common law, England enacted the English Sale of Goods Act of 1894, which codified many customary rules and adapted the common law to business needs of the time. The 1894 act and subsequent legislation were consolidated into the United Kingdom Sale of Goods Act of 1979. English sales law was transplanted to most of England’s colonies and remains a strong influence around the world to this day. Virtually all common law nations today have modern commercial codes and extensive case law governing the sale of goods. Canadian sales law, for example, borrows principles from both the English common law and from the American Uniform Commercial Code (UCC).
+
+The U.S. Uniform Commercial Code. In the United States, the law of sales was originally drawn from the English common law of contracts and the law merchant. In 1906, the Uniform Sales Act, codifying the law of sales, was passed in many U.S. states. (It is no longer in effect.) As the business world became more complex, and with the dawn of air travel and worldwide communications, there was a need for a clearer set of modern rules. This led to the creation in 1951 of the UCC, which has become the primary body of commercial law for domestic transactions in the United States. The UCC has been adopted (with some minor differences) in each of the fifty states plus the District of Columbia. Louisiana has not adopted UCC Article 2 on the Sale of Goods, preferring to follow the rules in its French-influenced Civil Code. The UCC covers many areas of commercial law, including bank deposits and negotiable instruments as well as the sale of goods, and makes the law uniform throughout the United States. Common law controls contracts not
+
+
+
+governed by the UCC, such as contracts for employ-ment, insurance, and services, the transfer of intellectual property rights, and sales of real property.
+
+National Differences in Sales Law. In an interna-tional contract for the sale of goods, at least one party is likely to have its rights decided under the law of a foreign country. In the last chapter, we learned that “conflict of laws” rules determine the country in which a breach of contract case will be heard, and under which country’s law will the case be decided. In the absence of a “choice of law” provision in a contract, a court must determine which law will govern—and that could be the law of the country where the contract was made, where it was to be performed, where the goods were to be delivered, where the subject matter is located, where either party resides or has its principal place of business, or in some other country with a close connection to the contract. This could lead to some surprising results. Different countries, even with modern codes, often have different rules for inter-preting contracts, for remedies and awarding damages, or even for determining if a contract exists at all. This is especially true when buyer and seller come from countries with different legal systems—common law, civil law, or Islamic law. No international business-person or attorney can possibly know all the laws of every country in which they do business. Attorneys may feel uncertain about negotiating and drafting contracts for their clients that would be governed by foreign codes that are unfamiliar or that are available only in a foreign language. If they do not have foreign legal experience, have not read the foreign case law, and do not have the advice of foreign counsel, then it becomes very difficult for them to advise their clients on the legal ramifications of a contract. Of course, the parties are free to negotiate and agree on their choice of national law. However, while it may seem like a freely bargained agreement, the choice is usually that of the party with the greatest bargaining power. It is this unpredictability of foreign law that is the unknown factor in contracting, and that can lead to a tremendous uncertainty in buying and selling goods across national borders.
+
+The ability to predict what will happen in the event of a breach of contract is essential to commerce. For centuries, legal scholars and lawmakers everywhere have realized that no nation can be open for business with the rest of the world without a stable and predictable body of sales law. No nation can expect to
+
+
+Copyright 2014 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
+
+Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
+
+Chapter 4: The Formation and Performance of Contracts for the Sale of Goods	89
+
+
+
+
+attract foreign traders and firms without a modern body of governing law to protect the contract rights of both its own citizens and foreigners alike.
+
+The Unification of Sales Law. The history of legal development in many nations has often coincided with its history of opening to the world through foreign trade. As trade expanded, and as foreigner merchants came to trade, so did nations require a more universally accepted set of laws. English common law spread through the early British Empire, including the American colonies. Civil law and Napoleonic codes spread through Europe, Latin America, Japan, and even China. This gradual process certainly unified laws, one country at a time. However, as the twentieth century brought the world closer together, there were calls for more organized efforts at unifying the sales laws of diverse countries around the world.
+
+The process of making national laws more uniform is known as the unification of law. The unification of modern sales law has been ongoing since the early part of the last century. Early efforts were made by the League of Nations, and by private organizations and law societies, although those largely turned out to be unsuccessful. In 1966, the United Nations created a new organization responsible for unifying trade law, the United Nations Commission on International Trade Law, or UNCITRAL (Vienna). UNCITRAL’s work led to a very successful effort in unifying the law applicable to the international sale of goods and the adoption in 1980 of the United Nations Convention on Contracts for the International Sale of Goods, or CISG. The CISG now forms the basis for a widely accepted body of international sales law, now implemented into the national codes and statutes of more than 70 nations, including the United States and its largest trading partners—Canada, Mexico, China, and most of Europe. The great feat of the United Nations in creating the CISG was that it was able to bring together legal scholars from all regions of the world, representing diverse legal systems. It was able to develop a code acceptable to the common law countries and civil law countries, including both developed and developing countries as well as the socialist countries of the time. The CISG is the primary subject of this chapter. We will look at contract formation, interpretation, warranties, rights and reme-dies on default, excuses for nonperformance, and more. We begin, however, by briefly tracing the historical development of sales law at the national level in England, the United States, and in modern China.
+
+
+
+THE CONVENTION ON
+
+CONTRACTS FOR THE INTERNATIONAL SALE OF GOODS (CISG)
+.......................................................................
+
+Throughout most of the twentieth century, interna-tional legal scholars envisioned a near- universally accepted, uniform law of sales. In 1980, that work came to fruition in the form of the CISG. It was drafted by representatives from many different coun-tries at meetings that took place over many years around the world.
+
+The CISG is now in effect in over 70 countries that account for more than two-thirds of all world trade. It was ratified by the U.S. Senate and became effective in the United States in 1988. The CISG is effective for trade within North America, as it has also been ratified by Canada and Mexico. It has also displaced the Chinese law of contracts for international sales. Interestingly, the United Kingdom, which is so firmly rooted in common law traditions, has not adopted the CISG. As of 2012, it has been adopted by the countries shown in Exhibit 4.1. Translations are available in the official languages of the United Nations (Arabic, Chinese, English, French, Russian, and Spanish) and in many others. An edited copy of the CISG appears in the appendix of this book, and you are encouraged to refer to it often while reading this chapter.
+
+This chapter examines the following aspects of the CISG: (1) its applicability to international sales,
+(2)rules of contract formation, validity and interpre-tation; (3) performance and nonperformance by the parties (4) remedies and damages for breach of contract; and (5) excuses for nonperformance of a contract.
+
+Applicability of the CISG to International Sales
+
+The CISG applies if the following conditions are met:
+
+1.The contract is for the commercial sale of goods (the CISG does not define the term “goods.”).
+2.It is between parties whose places of business are in different countries (nationality or citizenship of individuals is not a determining factor).
+
+3.The parties’ places of business are located in countries that have ratified the convention.
+
+
+Copyright 2014 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
+
+Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
+
+90Part 2: International Sales, Credits, and the Commercial Transaction
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© Cengage Learning
+
+
+
+
+Exhibit 4.1
+
+
+Countries that Have Ratified or Acceded to the CISG
+
+
+Argentina	Latvia
+
+Albania	Lebanon
+
+Armenia	Lesotho
+
+Australia	Liberia
+
+Austria	Lithuania
+
+Belarus	Luxembourg
+
+Belgium	Macedonia (Republic of)
+
+Benin	Mauritania
+
+Bosnia and Herzegovina	Mexico
+
+Bulgaria	Moldova
+
+Burundi	Mongolia
+
+Canada	Montenegro
+
+Chile	Netherlands
+
+China	New Zealand
+
+Colombia	Norway
+
+Croatia	Paraguay
+
+Cuba	Peru
+
+Cyprus	Poland
+
+Czech Republic	Romania
+
+Denmark	Russian Federation
+
+Dominican Republic	San Marino
+
+Ecuador	St. Vincent-Grenadines
+
+Egypt	Serbia
+
+El Salvador	Singapore
+
+Estonia	Slovakia
+
+Finland	Slovenia
+
+France	Spain
+
+Gabon	Sweden
+
+Georgia	Switzerland
+
+Germany	Syrian Arab Republic
+
+Greece	Turkey
+
+Guinea	Uganda
+
+Honduras	Ukraine
+
+Hungary	United States
+
+Iceland	Uruguay
+
+Iraq	Uzbekistan
+
+Israel	Zambia
+
+Italy
+
+Japan
+
+Korea
+
+(Republic of South)
+
+Kyrgyzstan
+
+
+Assume that a dispute arises over a contract between a buyer whose business is located in the United States and a seller whose business is located in
+
+
+
+France. Regardless of who initiates the lawsuit or whether it is brought in the United States or France, if no choice of law provision specifies otherwise, their rights will be determined by the CISG—not by the UCC or the French Civil Code. Similarly, if the same dispute arises between a U.S. buyer and an English seller whose business is located in the United Kingdom, and there is no choice of law provision in the contract, the applicable law is likely to be that of the country with the closest connection to the contract. Here, one of the parties is not located in a country that has ratified the convention—the United Kingdom. Now take another, perhaps more important, example. Assume that American and Chinese firms are in the process of negotiating a contract, but that neither will agree to have a dispute heard under the other’s law (assume they disagree on the forum as well). There is no arbitration provision. The CISG provides a solution: The contract can be drafted to call for any dispute to be brought before the courts of Hong Kong and to be decided according to the CISG, thus providing a neutral forum and a neutral law.
+
+In the United States, the UCC will continue to apply to purely domestic sales and to sales between firms located in the United States and countries that have not ratified the CISG.
+
+Place of Business Requirement. In the case of buyers or sellers with places of business in more than one country, such as multinational corporations, “place of business” would be considered to be the country that has the closest relation to the contract and where it will be performed. This could mean, at least theoreti-cally, that if two American companies negotiated a contract entirely within the United States, but one of them had a place of business outside of the United States and the contract was to be performed outside the United States (e.g., the contract called for delivery of the goods to a point outside the United States), then the CISG might govern the transaction.
+
+Choice of Law Provisions. Despite the widespread acceptance of the CISG, many attorneys recommend that their clients negotiate a choice of law provision calling for the resolution of disputes according to their own national laws. Many U.S. lawyers prefer to have the more familiar UCC govern their clients’ contracts. Article 6 of the CISG allows parties to “exclude the application of this Convention… or vary from any of its provisions.” This is often called the “opting out” provisions of the CISG. Any attempt to “opt out” must
+
+
+Copyright 2014 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
+
+Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
+
+Chapter 4: The Formation and Performance of Contracts for the Sale of Goods	91
+
+
+
+
+be stated in clear and unequivocal language and should only be done by attorneys experienced with the CISG.
+
+The following case, Asante Technologies, Inc. v. PMC-Sierra, Inc., discusses three important provisions
+
+
+
+of the CISG: the place of business requirement, the ability of the parties to “opt out” of the CISG by using a choice of law clause, and the concept that in international transactions the CISG preempts the contract laws of U.S. states.
+
+
+
+
+Asante Technologies, Inc. v. PMC-Sierra, Inc.
+
+164 F. Supp. 2d 1142 (2001) United States District Court (N.D. Cal.)
+
+
+BACKGROUND AND FACTS
+
+The plaintiff, Asante, purchased electronic parts from the defendant, PMC, whose offices and factory were in Canada. Asante placed its orders through defendant’s authorized distributor, Unique Technologies, located in California. Asante’s order stated that the contract “shall be governed by the laws of the state shown on buyer’s address on this order.” PMC’s confirmation stated that the contract “shall be construed according to the laws of Canada.” Invoices were sent from Unique, and payment remitted to Unique, either in California or Nevada. Asante claimed that the goods did not meet its specifications and filed suit in California state court to have its claim decided under California law. When the case was transferred to a U.S. federal court, Asante requested that the case be remanded back to state court.
+
+
+WARE, DISTRICT JUDGE PLACE OF BUSINESS REQUIREMENT
+
+The Convention on Contracts for the International Sale of Goods (“CISG”) is an international treaty which has been signed and ratified by the United States and Canada, among other countries … The CISG applies “to contracts of sale of goods between parties whose places of business are in different States … when the States are Contracting States.” CISG Art. 1 (1) (a). Article 10 of the CISG provides that “if a party has more than one place of business, the place of business is that which has the closest relationship to the contract and its performance.” CISG Art. 10 …
+
+It is undisputed that plaintiff’s place of business is Santa Clara County, California. It is further undisputed that…defendant’s corporate headquarters, inside sales and marketing office, public relations department, principal warehouse, and most of its design and engineering functions were located in Canada. How-ever, plaintiff contends that, pursuant to Article 10 of the CISG, defendant’s “place of business” having the closest relationship to the contract at issue is the United States …
+
+Plaintiff asserts that Unique acted in the United States as an agent of defendant, and that plaintiff’s contacts with Unique establish defendant’s place of business in the United States for the purposes of this contract. Plaintiff has failed to persuade the Court that Unique acted as the agent of defendant … To the contrary, a distributor of goods for resale is normally not treated as an agent of the manufacturer … Furthermore, while Unique may distribute defendant’s products, plaintiff does not allege that Unique made any representations regarding technical specifications on behalf of defendant … Plaintiff’s dealings with Unique do not establish defendant’s place of business in the United States.
+
+Plaintiff’s claims concern breaches of representa-tions made by defendant from Canada. Moreover, the products in question are manufactured in Canada, and plaintiff knew that defendant was Canadian, having sent one purchase order directly to defendant in Canada by fax … Moreover, plaintiff directly corre-sponded with defendant at defendant’s Canadian address … In contrast, plaintiff has not identified any specific representation or correspondence emanating from defendant’s Oregon branch. For these reasons, the Court finds that defendant’s place of business that has the closest relationship to the contract and its performance is British Columbia, Canada. Conse-quently, the contract at issue in this litigation is between parties from two different Contracting States, Canada and the United States. This contract therefore implicates the CISG.
+
+
+CHOICE OF LAW CLAUSE
+
+Plaintiff next argues that, even if the Parties are from two nations that have adopted the CISG, the choice of law provisions in the [buyer’s purchase order and seller’s confirmation] reflect the Parties’ intent to “opt out” of application of the treaty. The Court finds that the particular choice of law provisions in the “Terms and Conditions” of both parties are inadequate to effectuate an “opt out” of the CISG.
+
+continues
+
+
+
+
+Copyright 2014 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
+
+Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
+
+92Part 2: International Sales, Credits, and the Commercial Transaction
+
+
+
+
+continued
+
+
+
+Although selection of a particular choice of law, such as “the California Commercial Code” or the “Uniform Commercial Code” could amount to implied exclusion of the CISG, the choice of law clauses at issue here do not evince a clear intent to opt out of the CISG. For example, defendant’s choice of applicable law adopts the law of British Columbia, and it is undisputed that the CISG is the law of British Columbia. Further-more, even plaintiff’s choice of applicable law generally adopts the “laws of” the State of California, and California is bound by the Supremacy Clause to the treaties of the United States. Thus, under general California law, the CISG is applicable to contracts where the contracting parties are from different countries that have adopted the CISG …
+
+FEDERAL PREEMPTION
+
+It appears that the issue of whether or not the CISG preempts state law is a matter of first impression. In the case of federal statutes, “the question of whether a certain action is preempted by federal law is one of congressional intent … The Court concludes that the expressly stated goal of developing uniform interna-tional contract law to promote international trade indicates the intent of the parties to the treaty to have the treaty preempt state law causes of action. The availability of independent state contract law causes of action would frustrate the goals of uniformity and certainty embraced by the CISG. Allowing such ave-nues for potential liability would subject contracting parties to different states’ laws and the very same
+
+ambiguities regarding international contracts that the CISG was designed to avoid. As a consequence, parties to international contracts would be unable to predict the applicable law, and the fundamental purpose of the CISG would be undermined.
+
+Finally, plaintiff appears to confuse the matter of exclusive federal jurisdiction with preemption … Even where federal law completely preempts state law, state courts may have concurrent jurisdiction over the federal claim if the defendant does not remove the case to federal court [citation omitted]. This Court does not hold that it has exclusive jurisdiction over CISG claims.
+
+Decision. The federal court had concurrent jurisdic-tion over this case (even though the case could also have been heard in state court) because the applicable law was the CISG, an international convention ratified by the United States.
+
+Case Questions
+
+1.What were the court’s holdings with respect to place of business, choice of applicable law and pre-emption of state contract law?
+
+2.On what basis did the court conclude that the parties had not sufficiently evidenced an intent to opt out of the CISG? What language would you have included in the purchase and confirmation orders to clearly evidence such an intent?
+
+3.What reasons did the court give for preempting state contract law in favor of the CISG?
+
+
+Sales Excluded from the CISG. The following types of sales have been specifically excluded from the convention:
+
+1.Consumer goods sold for personal, family, or household use
+2.Goods bought at auction
+
+3.Stocks, securities, negotiable instruments, or money
+4.Ships, vessels, or aircraft
+
+5.Electricity
+
+6.Assembly contracts for the supply of goods to be manufactured or produced wherein the buyer provides a “substantial part of the materials necessary for such manufacture or production”
+
+7.Contracts that are in “preponderant part” for the supply of labor or other services
+
+8.Contracts imposing liability on the seller for death or personal injury caused by the goods
+
+9.Contracts where the parties specifically agree to “opt out” of the convention or where they choose to be bound by some other law
+
+In the United States, Article 2 of the UCC applies to both consumer and domestic commercial transac-tions. Consumer sales were excluded from the CISG because consumer protection laws are so specific to every country that it would have been very difficult to harmonize them. Further, consumer sales are usually domestic in nature.
+
+VALIDITY AND FORMATION OF INTERNATIONAL SALES CONTRACTS
+.......................................................................
+
+Although readers who have studied contract law may be acquainted with the general concepts of contract
+
+
+Copyright 2014 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
+
+Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
+
+Chapter 4: The Formation and Performance of Contracts for the Sale of Goods	93
+
+
+
+
+validity and formation, they may find that many of the specific rules applicable to international contracts are different from what they learned. The following sections discuss the requirements for a valid contract, including the intention of the parties to be bound, mutual assent (offer and acceptance), and other rules.
+
+
+General Requirements for a Valid Contract
+
+Under the common law, a valid contract is an agreement that contains all of the essential elements and meets all the requirements of a binding contract, including:
+
+1.It is an agreement between parties entered into by mutual assent and resulting from their words or from conduct that indicates their intention to be bound.
+
+2.It must be supported by consideration (the bargained-for exchange of a legal benefit or incurring of a legal detriment).
+
+3.The parties must have legal capacity (they may not be minors, legally incompetent, or under the influence of drugs or alcohol).
+
+4.The contract must not be for illegal purposes or contrary to public policy.
+
+If an agreement is missing any one of these essential elements, the courts will not enforce it under the common law.
+
+The CISG only governs the formation of a contract and the rights and obligations of the seller and buyer. The Convention does not provide rules for determin-ing whether a contract is valid, for determining whether a party to a contract is legally competent, or for determining whether a party is guilty of fraud or misrepresentation. These rules are left to individual state or national laws. Consideration is not men-tioned, and Article 29 seems to state that consider-ation is not required in order to modify or terminate a contract under the CISG, although in Geneva Pharmaceuticals Technology Corp. v. Barr Laborato-ries Inc., 201 F. Supp. 2d 236 (S.D. N.Y. 2002), a U.S. federal court stated that issues of validity, including consideration, were a matter of state law and not governed by the CISG. Two additional federal courts in Barbara Berry, S.A. v. Ken M. Spooner Farms, Inc., 2006 U.S. Dist. LEXIS 31262 (W.D. Mich. 2006) and Norfolk Southern Railway Co. v. Power Source Supply, Inc., 2008 U.S. Dist. LEXIS 56942 (W.D. Pa. 2008) have reached similar conclusions.
+
+
+
+The Effect of Illegality
+
+A generally recognized principle of contract law is that, in all legal systems, agreements that violate the laws of a state or nation are void. A void agreement is of no legal effect and will not be enforced by a court.
+
+The Writing Requirement
+
+The laws of many nations differ as to whether contracts for the sale of goods must be in writing. Under the UCC, American law requires that contracts for the sale of goods of $500 or more be in writing. (Under proposed amendments to the UCC, the requirement would be increased to $5,000 and the requirement of a signed “writing” would be changed to signed “record.”) Writing requirements in common law countries date back to an act of the English Parliament in 1677. In 1954, however, the United Kingdom repealed its law.
+
+Under CISG Article 11, a contract for the international sale of goods “need not be concluded in or evidenced by writing and is not subject to any other requirement as to form. It may be proved by any means, including witnesses.” This is in keeping with a basic concept found in the CISG: that the parties should have flexibility in contracting and as much freedom of contract as possible.
+
+Several countries, including Argentina, Chile, Hungary, Russia, and a few others, have elected to omit Article 11 from their version of the CISG. In those countries, foreign sales contracts governed by the CISG must still be in writing. In China, one provision of the 1999 Contract Law for the People’s Republic of China prevails over CISG Article 11, even for international sales otherwise governed by the CISG. This permits foreign sales contracts to be either written or oral, unless some other statute or administrative regulation requires that they be in writing. That requires knowledge of many different administrative regulations. By practice, almost all foreign trade contracts involving Chinese firms are in writing.
+
+Digital Signatures in Electronic Commerce. The United States, Japan, China, and members of the European Union have enacted laws recognizing the validity of electronic or digital signatures on contracts and legal documents. The U.S. law, the Electronic Signatures in Global and National Commerce Act, makes an electronic signature on a contract as legally binding as a handwritten one on a paper document.
+
+
+Copyright 2014 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
+
+Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
+
+94Part 2: International Sales, Credits, and the Commercial Transaction
+
+
+
+
+Problems of Contract Interpretation
+
+Due to the great distances involved in international business, negotiations are often conducted through a series of conversations, meetings, and communications by mail, package delivery, telephone, fax, e-mail, and sharing of digital files. The parties may make reference to ancillary materials, such as spec sheets and price lists. Samples, models, and prototypes may be exchanged. The negotiations may take place in more than one country and more than one language. The buyer may visit the seller’s factory to see the seller’s capabilities firsthand. Discussions might take place through “delegations” or negotiating teams of salespeople, technical specialists, agents, and attorneys. Technical discussions are often left to engineers or others experts. Negotiations may be heavily influenced by language barriers and cultural differences, and terminology peculiar to the industry will be used. The parties may have thought that they were close to agreement many times, only to reach an impasse, resuming negotiations at a later time. In the end, the final agreement may be recorded in one written document.
+
+On the other hand, it is not unusual for the parties to fail to put their agreement into a complete and final written document. This can happen out of ignorance, a history of past dealings with one another, time constraints, or other reasons. And as we saw, in most countries, a contract for the international sale of goods does not have to be in writing to be enforceable under the CISG. In the event that a dispute ends in court, it might be possible for the court to look at the chain of negotiations and to piece together the intentions of the parties on the basis of the testimony and other evidence. But this can be expensive and lead to an uncertain result. More experienced firms, at the close of negotiations, would be careful to put their complete agreement in writing. If the complete and final agreement has been put into writing, we say that the contract has become “integrated.” An integrated contract is a written document or documents that evidence the final and complete agreement of the parties. Mere informal notes of one of the parties, or an unsigned document marked “draft,” would not be a fully integrated contract.
+
+The Parol Evidence Rule and the Common Law. The common law parol evidence rule states that a court may not consider in evidence any written or oral statements that were made by the parties prior to or at the time of concluding a fully integrated written contract if the statements are offered to contradict,
+
+
+
+vary, or add to the terms of the written contract. The court may not look to prior negotiations, correspon-dence, or verbal statements offered by one of the parties at trial for the purpose of denying or contra-dicting the written contract. Parol evidence may be introduced to clarify an ambiguity (but not to contradict the “plain meaning” of a term); to prove fraud, undue influence, or lack of capacity; or to prove the existence of a later agreement that modified or terminated an earlier contract. The parol evidence rule is a common law rule, applicable to all contracts, not just sales contracts. It prevents extrinsic evidence from reaching the ears of a jury and lessens the chance of perjury and unreliable testimony. The civil law systems, which generally do not use jury trials in these cases, do not have the same strict rule against the admissibility of parol evidence in most breach of contract cases.
+
+Parol Evidence and the CISG. The parol evidence rule has not been incorporated into the CISG. Article 8 of the CISG allows a court, when considering the intent of the parties to a contract, to consider “all relevant circumstances of the case, including the negotiations, any practices which the parties have established between themselves, usages, and any subsequent conduct of the parties.”
+
+In MCC-Marble Ceramic Center, Inc. v. Ceramica Nuova D’Agostino, S.P.A., 144 F.3d 1384 (11th Cir. 1998), a U.S. citizen signed a contract for the purchase of Italian ceramic tile while at a trade fair in Bologna. The document consisted of the seller’s order form and included preprinted terms on the front and reverse sides. The terms stated that if the goods did not conform to the contract, notice had to be given to the seller within ten days. When the tile arrived, the buyer believed it was inferior, but never gave notice of this fact to the seller. There was uncontradicted evidence that, at the time of signing the contract, all parties had a verbal understanding that the preprinted terms would not be applicable. Applying the CISG, the court ruled that parol evidence could be considered to contradict the written terms of the contract. In other words, the trial court could consider the subjective intent of the parties, as well as their verbal understanding at the time of signing the contract, in order to invalidate the preprinted terms. With no preprinted terms, the buyer would be permitted to withhold payment because the goods did not conform to the contract specifications.
+
+
+Copyright 2014 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
+
+Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
+
+Chapter 4: The Formation and Performance of Contracts for the Sale of Goods	95
+
+
+
+
+The Role of Customs, Practices, and Trade Usages. It is usually not possible, in an international transac-tion, for the parties to expressly state or write every single detail into their contract. There are bound to be gaps in most contracts. Firms that have done business in a certain way for many years often expect, and are justified in expecting, that they will continue the same practice. A buyer who has always ordered products and materials of specified quality may not recite that in every order placed with his or her supplier. They may assume that their past dealings will become a part of their future dealings, unless specified. Another issue is that in many industries, it is common to use language and terminology specific to that industry. For example, in purchasing silk from China, a silk buyer in the United States may order “hand-pulled mulberry silk” or “habotai” or “tussah” or “10-momme weight.” These are terms that may have very special meanings to merchants but mean nothing to the rest of us.
+
+To fill in these gaps, or to interpret specific contract provisions, the courts of the United States and most other common law countries will look to trade usages for guidance. Trade usages are rules derived from the widespread customs of an industry, the practices of merchants in their past dealings, and the usages of trade terminology and language. Examples include use of specific descriptive terms, guarantees that the goods “will be of average and acceptable quality for the kind and type of goods sold in the trade,” and inclusion of trade terms to refer to which party is responsible for shipping expenses and the risk of damage or loss of goods during shipment.
+
+Trade Usages and the CISG. The CISG provisions of Article 9 resemble how U.S. law handles trade usages. The only trade usages that can be used to interpret or fill in the gaps in a contract are (1) those to which the parties have agreed or that they have established between themselves and (2) those usages of which the parties knew or ought to have known, and that are widely known in international trade (or at least in those countries in which both buyer and seller are located) and regularly observed in the industry or trade involved.
+
+Mutual Assent: The Offer
+
+The contract laws of all countries require that the parties reach a mutual agreement and understanding about the essential terms of a contract. This is known
+
+
+
+as mutual assent. The agreement is reached through the bargaining process between offeror and offeree. The offeror, by making the offer, creates in the offeree the power of acceptance, or the power to form a contract. A contract arises upon acceptance by the offeree.
+
+The Intention to Be Bound. Under Article 14 of the CISG, a communication between the parties is considered an offer when (1) it is a proposal for concluding a contract and (2) it is “sufficiently definite and indicates the intention of the offeror to be bound.” An offer is considered sufficiently definite if it
+
+(1)indicates or describes the goods, (2) expressly or implicitly specifies the quantity, and (3) expressly or implicitly specifies the price for the goods. However, one should not think that just because an item of communication includes a description of the goods, the quantity, and the price, that it always indicates an offer to conclude a contract. In many international contracts involving a great deal of money, no firm would make a commitment without reaching an agreement on many other terms, such as methods of payment, delivery dates, allocation of shipping costs, quality standards, installation and training, warran-ties, and responsibility for duties or taxes. In cases where the court does find that the parties had the intention to be bound, it can supply many of the missing terms by looking to their past dealings and to the customs in the trade or industry, or by referring to the applicable provisions of the CISG.
+
+Public Offers. If an offer must express the offeror’s intention to be bound, how does the law treat advertisements, brochures, catalogs, and Websites? Are they offers, inviting acceptance, or are they mere invitations to deal—invitations to the public to make an offer? The laws of some nations hold that an offer must be addressed to one or more specific persons. In those countries, an advertisement will not create the power of acceptance in a member of the public who reads the ad. Other countries, while treating most advertisements as mere invitations to deal, do recognize that specific advertisements that describe the goods, their quantity, and price may be considered an offer.
+
+The CISG takes a middle position by creating a presumption that an advertisement, catalog, price list, or Website is not an offer. Article 14 states, “A proposal other than one addressed to one or more specific persons is to be considered merely as an
+
+
+
+Copyright 2014 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
+
+Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
+
+96Part 2: International Sales, Credits, and the Commercial Transaction
+
+
+
+
+invitation to make offers, unless the contrary is clearly indicated by the person making the proposal.” Consequently, to be on the safe side, many attorneys recommend that a seller include in all of its price sheets and literature, and on its Website, a notice that the content does not constitute an offer.
+
+Open Price Terms. In international transactions between companies familiar with their industry or market, it is not unusual that a contract can be concluded without any mention of price. It is not that it was overlooked; it may just have been that they were relying on some external market factor or prior course of dealings to determine price. A contract may even refer to a market price on a date that is months or even years away. If the price is left “open,” is the parties’ understanding sufficiently definite to consti-tute a valid contract? In the United States, most state UCC laws provide that if price is not specified, a “reasonable price” will be presumed. Other countries take different approaches which may not favor open price terms.
+
+Although some conflict stems from the language of the CISG regarding open price terms (see Articles 14 and 55), the CISG provisions seem similar to those of U.S. state law. Article 55 states that where price is not fixed, the price will be that charged “for such goods sold under comparable circumstances in the trade concerned.” Accordingly, if the buyer and seller fail to specify the price of the goods, a court might look to the trade or to the market price of comparable goods to make its own determination of price, and the contract and all its other provisions will remain in effect.
+
+Firm Offers. As a general rule, an offer may be revoked at any time prior to acceptance. Under the UCC, as between merchants, an offer may not be revoked if it is made in a signed writing that gives assurance that it will remain open for a stated period of time, not to exceed three months. Under the CISG, firm offers are valid even if they are not in writing. Moreover, an offer may not be revoked if the offeree reasonably relies on the offer as being irrevocable and the offeree has acted in reliance on the offer. Some civil law countries, such as Germany, France, Italy, and Japan, prohibit revocation during the period of time normally needed for the offeree’s acceptance to arrive.
+
+The Pro Forma Invoice. One very common method of offering goods for sale to a foreign buyer is through the pro forma invoice (Exhibit 4.2). The pro forma
+
+
+
+invoice is a formal document addressed to a specified buyer to sell the products described according to certain terms and conditions. Most pro forma invoices are specific and definite enough to meet the require-ments of an offer. The pro forma invoice sets out the price for the goods in the currency stated, plus any additional charges payable by the buyer’s account, including the cost of packing and crating; the cost of inland freight; the cost of ocean or air freight, freight forwarder’s fees, and pier delivery charges; wharfage and warehouse charges; and insurance. The pro forma invoice specifies the mode of shipment, the method of payment, the length of time for which the quoted terms will be valid, and any and all other terms required by the seller as a condition of sale. Sellers usually require the buyer to accept the offer by signing it and returning it to them before shipment. In other cases, a buyer might accept an offer by sending its own purchase order form. The pro forma invoice should not be confused with the commercial invoice, which is the final bill for the goods that accompanies the request for payment.
+
+Mutual Assent: The Acceptance
+
+A contract is not formed until the offer is accepted by the offeree. The acceptance is the offeree’s manifesta-tion of the intention to be bound to the terms of the offer. Modern legal rules applicable to the sale of goods give great flexibility to the offeree as to the manner and method of accepting—certainly greater flexibility than under the common law. Under the CISG, an acceptance may take the form of a statement or conduct by the offeree that indicates the offeree’s intention to be bound to the contract. CISG Article 18 states that “a statement made by or other conduct of the offeree indicating assent to an offer is an acceptance.” (UCC 2-206 states that “an offer to make a contract shall be construed as inviting acceptance in any manner and by any medium reasonable in the circumstances.”) This rule has day-to-day applicability. It is very common for a prospec-tive buyer to place an order to purchase goods, with the seller responding not with a verbal or written confirmation, or not by initialing the order and returning it to the buyer, but simply by shipping the goods called for. For instance, the seller may be shipping urgently needed replacement parts for a stopped assembly line. Similarly, it is not uncommon for a buyer to accept the delivery of goods by simply remitting payment (as in the case where the seller
+
+
+Copyright 2014 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
+
+Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
+
+Chapter 4: The Formation and Performance of Contracts for the Sale of Goods	97
+
+
+
+
+
+Exhibit 4.2
+
+Pro Forma Invoice
+
+DownPillow International, Inc.
+
+Pro Forma Invoice
+
+Boone, North Carolina, U.S.A.
+
+Invoice to:			Japanese Retailer	Date of pro forma invoice:
+			Osaka, Japan	Oct. 12, 2009	
+Ship/Consign to:			as per buyer’s instructions	This pro forma no. 000044372
+Shipment via:			U.S. port to destination Kobe	Terms of Payment	
+Notify Party:			Buyer to advise	Cash against documents,
+Country-of-Origin:	U.S.A	irrevocable LC payable in
+					U.S. dollars	
+Total weight (est.):	9405 lbs/4266 kg.	Shipment Date	
+Shipping volume (est.):	3000 cu.ft./85 cu.m.	45 days after receipt of LC
+							
+Quantity	Item Code	Description	Price	Amount
+							
+5,000	5WGD-1	Bed pillows of white goose down	$32.00	$160,000
+			total fill weight 26 oz./0.74 kg,			
+			contents sterilized			
+			shell: 100% cotton, with piping			
+			size 26" × 26", 66 cm × 66 cm			
+			PRICE Ex Works, Domestic packing			$160,000
+			Export packing/vacuum pack charges			850
+			Cartage/Inland freight charge			1,250
+			Pier delivery charge			150
+			Freight forwarder’s fees			200
+			PRICE F.A.S. NC PORT			$162,450
+			Ocean freight charges port to port			$3,355
+			Container rental charge			450
+			Marine insurance charges			640
+			PRICE C.I.F. Port of KOBE, Japan			$166,895
+DownPillow International, Inc.					
+					
+							
+							
+by, Export Sales Manager		Authorized buyer’s signature				
+						
+
+All terms of sale interpreted by Incoterms 2000. This quotation is valid for a period of sixty days from above date. Any changes in the actual cost of shipping, handling, packaging, insurance, or other charges not a part of the actual cost of the goods are buyer’s responsibility.
+
+SEE OTHER SIDE FOR ADDITIONAL TERMS AND CONDITIONS
+
+
+
+
+
+
+
+
+
+Copyright 2014 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
+
+Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
+
+98Part 2: International Sales, Credits, and the Commercial Transaction
+
+
+
+
+ships blue widgets instead of the red ones ordered; if the buyer pays for the nonconforming red ones, there is a contract). Both the UCC and the CISG cover these situations. CISG Article 18 states that an offeree may accept by “dispatching the goods or payment of the price, without notice to the offeror” provided that the parties have established this as a practice or it is routinely accepted in the trade, and if the act is performed within the time for acceptance fixed by the offeror or within a reasonable time.
+
+Silence Not an Acceptance. The general rule in most countries is that the offeree’s silence or inactivity alone should not be interpreted as an acceptance. If you unexpectedly receive goods that you did not order, you should not have to pay for them (although in most legal systems, you might have to safeguard them until the sender retrieves them). Moreover, it would be unfair if a seller could force you to take goods simply by stating, “If I don’t hear from you, I assume you will keep them and pay for them.” On the other hand, there are situations where the parties can agree that silence is an acceptance. If seller makes an offer to you, and you reply, “If you do not hear from me by 5:00 p.m., ship the goods,” then you have made your silence an acceptance.
+
+Another exception occurs when the parties’ previ-ous dealings oblige them to speak up and not remain silent. Consider this case: For the past five years, DownPillow, Inc., has regularly ordered quantities of white goose down from Federhaus GmbH for shipment within three months. At first, Federhaus confirmed all orders. Soon, Federhaus stopped send-ing written confirmations of orders and just shipped.
+
+This time, DownPillow placed the order and Federhaus never shipped. DownPillow suffered damages when it unexpectedly ran out of feathers. It can sue Federhaus for breach of contract on the basis that the established practice of the parties presumed Federhaus’s acceptance of DownPillow’s order.
+
+When an Acceptance is Effective. Under the com-mon law, and in virtually all legal systems, the offeree may accept at any time until the offer is revoked by the offeror, until the offer expires due to the passage of time, until the original offer is rejected by the offeree, until the offeree makes a counteroffer in return, or until the offer terminates (such as through the death of one of the parties or destruction of the subject matter). Thus, it is often important to know when an acceptance becomes effective because it cuts off the
+
+
+
+offeror’s ability to revoke the offer, and it is at that point in time when contractual rights and obligations arise. Time constraints can be even more critical in international transactions between buyers and sellers located in different time zones and using several different means of communications—next-day letters, e-mail, telephone, and facsimile transmissions.
+
+Under the common law, a contract is formed when the acceptance is dispatched by the offeree In the case of an acceptance by letter or written document, the time of dispatch is the time the letter is put into the hands of the postal authorities, courier service, or other carrier. This is commonly called the mailbox rule. The rule assumes that the correct mode of transmission is used (i.e., one that the offeror specifies or, if none, one that is reasonable under the circumstances) and that it is properly addressed. This assumption makes commercial sense, for if a fax arrives offering to sell fresh roses sitting on the hot tarmac in Colombia, one does not accept by letter and expect a contract to be formed on dispatch. Hence, if a buyer submits an order to a seller, a contract is formed upon the dispatch of the seller’s acceptance. The buyer’s power to withdraw the offer to purchase ended at the time the contract was formed. While the mailbox rule was developed long before the existence of electronic communications, and while it has lost some of its significance in the age of fax machines and e-mail, it is still relevant and applicable.
+
+The CISG follows a somewhat different approach. Under Article 18, an acceptance is not effective upon dispatch, but is effective when it reaches the offeror (or in the case of electronic transmission, appears on the offeror’s fax machine or in his or her e- mail inbox). Article 16 protects the offeree by stating that the dispatch of an acceptance cuts off the offeror’s right to revoke the offer. Thus, an acceptance may possibly be withdrawn if the withdrawal reaches the offeror before or at the same time as the acceptance does (Article 22). Recall that under the common law, the offeree would not have had the same right because the contract would have been formed at the moment of dispatch. This CISG rule follows the basic rules in effect in China and civil law countries. The following case, Solae, LLC v. Hershey Canada, Inc., discusses the formation of a contract and one party’s futile attempt to modify it.
+
+The Mirror Image Rule. Students of the common law of contracts are very familiar with the mirror image rule. The rule requires that an offeree respond to an offer with an acceptance that is definite and
+
+
+Copyright 2014 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
+
+Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
+
+Chapter 4: The Formation and Performance of Contracts for the Sale of Goods	99
+
+
+
+
+
+Solae, LLC v. Hershey Canada, Inc.
+
+557 F. Supp. 2d 452 (2008) United States District Court (D. Del.)
+
+
+BACKGROUND AND FACTS
+
+Solae, a U.S. limited liability company with its principal place of business in St. Louis, Missouri, had sold soy lecithin to Hershey Canada, Inc., a Canadian corpora-tion with its primary place of business in Mississauga, Ontario (Canada) since 2003. The soy lecithin was incorporated into Hershey’s products sold throughout Canada. Solae and Hershey negotiated contracts at the end of each calendar year for Hershey’s orders of soy lecithin in the upcoming year. In January 2006, the parties reached an agreement whereby Hershey would order up to 250,000 pounds of soy lecithin from Solae in 2006 at a price of U.S. $1.2565 per pound.
+
+In June 2006, Hershey faxed a purchase order to Solae for 40,000 pounds of soy lecithin to be delivered to Hershey’s manufacturing plant in Smith Falls, Ontario, in September 2006. Solae sent an order confirmation to Hershey in June 2006. The order confirmation did not contain Solae’s standard condi-tions of sale nor did it contain a forum selection clause. In September 2006, Solae shipped 40,000 pounds of soy lecithin to Hershey. An invoice sent to Hershey concurrent with the shipment contained the conditions of sale, including a forum selection clause providing that “the courts of Delaware shall have exclusive jurisdiction over any disputes or issues arising under this Agreement.”
+
+In October 2006, Hershey discovered that the soy lecithin was contaminated with salmonella. The contami-nation was discovered after Hershey had incorporated the contaminated soy lecithin into over two million units of product shipped throughout Canada. The contamina-tion resulted in a large-scale recall of Hershey’s chocolate products, the temporary closure of the Smith Falls plant, and an extensive investigation by the Canadian govern-ment. Hershey notified Solae of the contaminated soy lecithin, informed Solae that it would hold Solae responsible for damages incurred as a result of the incident, and refused to accept delivery or pay for any additional lots of soy lecithin, including a lot for which an order had been placed in October 2006.
+
+Solae filed a lawsuit in March 2007 seeking a determination of the parties’ rights with respect to the June and October 2006 orders. Hershey moved to dismiss Solae’s complaint for lack of personal jurisdiction. The issue before the court was whether the forum selection clause contained within Solae’s conditions of sale were part of the parties’ contract such that the court could exercise personal jurisdiction over Hershey.
+
+FARNAN, DISTRICT JUDGE
+
+The parties dispute the relevant contract governing this dispute. If the relevant contract contains a forum-selection clause, Hershey Canada’s contentions regarding personal jurisdiction are largely irrelevant. Accordingly, the Court must determine whether Hershey Canada is bound by a forum selection clause.
+
+The parties agree that the United Nations Convention of Contracts for the International Sale of Goods (“CISG “) governs contract formation here. Under the terms of the CISG, “a contract is concluded at the moment when an acceptance of an offer becomes effective in accordance with the provisions of this Convention.” CISG, Art. 23. An offer must be “sufficiently definite,” and “demonstrate an intention by the offerer to be bound if the proposal is accepted.” Id. Art. 14. An offer is accepted, and a contract is formed when the offeree makes a statement or other conduct, “indicating assent to an offer.” Id. Art. 18. The CISG does not contain a statute of frauds, stating that “a contract of sale need not be concluded in or evidenced by writing and is not subject to any other requirement as to form.” Id. Art. 11. Courts have held that a binding contract exists when the parties sufficiently agree to the goods, the quantity and the price. See, e.g., Chateau Des Charmes Wines, Ltd. v. Sabate U.S.A., Ltd. [citation omitted].
+
+Having reviewed the record in light of the applicable legal standard, the Court is not persuaded by Solae’s contention that its Conditions of Sale control the disputed transaction… . The record is clear that [the parties] reached agreement as to the amount of soy lecithin Solae was obligated to sell Hershey Canada during the calendar year 2006, and the price at which Solae was obligated to sell. Under this agreement, Hershey Canada was obligated to purchase a substan-tial quantity of soy lecithin from Solae at the price agreed upon. The Court concludes that this is sufficient to create a complete and binding contract under the CISG (the “2006 Contract”).
+
+Because the 2006 Contract did not include a forum-selection clause, the Court must now determine if the forum-selection clause contained in the Conditions of Sale subsequently became part of the 2006 Contract under the CISG. As Hershey Canada points out, this issue was addressed by the Ninth Circuit in Chateau Des Charmes Wines Ltd., 328 F.3d 528:
+
+Under the Convention, a “contract may be modified or terminated by the mere agreement of the
+
+continues
+
+
+
+Copyright 2014 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
+
+Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
+
+100Part 2: International Sales, Credits, and the Commercial Transaction
+
+
+
+
+continued
+
+
+
+parties.” [CISG], art. 29(1). However, the Convention clearly states that “[a]dditional or different terms relating, among other things, to … the settlement of disputes are considered to alter the terms of the offer materially.” Id. art 19(3). There is no indication that [the buyer] conducted itself in a manner that evidenced any affirmative assent to the forum selection clauses in the invoices. Rather, [the buyer] merely performed its obligations under the oral contracts. Nothing in the Convention suggests that the failure to object to a party’s unilateral attempt to alter materially the terms of an otherwise valid agreement is an “agreement” within the terms of Article 29.
+
+
+Id. at 531. Here, as in Chateau, Solae has set forth no substantive evidence indicating that Hershey Canada agreed to a modification of the terms of the 2006 Contract, beyond Hershey Canada’s receipt of the Conditions of Sale. Solae has not set forth evidence refuting statements that Hershey Canada’s material analyst at the Smith Falls plant was not authorized to negotiate contractual terms or to commit Hershey Canada to Solae’s Conditions of Sale, and the Court does not agree with Solae’s contention that because multiple invoices and pre-shipment confirmations containing these Conditions of Sale were sent to Hershey Canada over “years of sales and dozens of transactions,” these terms necessarily became part of the 2006 Contract. “[A] parties’ multiple attempts to alter an agreement unilaterally do not so effect.” Chateau, 328 F.3d at 531. In sum, the Court concludes that Hershey Canada’s continued performance of its
+
+duties under the 2006 Contract did not demonstrate its acceptance of the terms contained in the Condition of Sales, and the Court further concludes that Solae’s Conditions of Sale did not modify the 2006 Contract to add a forum-selection clause.
+
+Decision. The parties’ January 2006 contract for the sale and purchase of soy lecithin in 2006 was valid and binding. The forum selection clause contained in So-lae’s conditions of sale and incorporated in later sales documents was not a part of this contract. The buyer did not assent to the forum selection agreement simply by receiving and paying for the goods. The seller’s com-plaint was thus dismissed for lack of personal jurisdiction.
+
+Comment. In addition to its holding on new and additional terms, this case is instructive in its determina-tion of the minimum requirements to form a contract pursuant to the CISG and its disregard of terms appar-ently incorporated into the sales documents between the parties for three years prior to this lawsuit.
+
+Case Questions
+
+1.What was the court’s holding with respect to the inclusion of the forum selection clause in the par-ties’ contract?
+
+2.What are the requirements for the formation of a contract pursuant to the CISG?
+
+3.Did the court improperly excuse Hershey’s failure to object to the forum selection clause given the parties’ extended dealings (which included condi-tions of sale containing a forum selection clause)? Why or why not?
+
+
+
+unconditional and that matches the terms of the offer exactly and unequivocally. Under the mirror image rule, a purported acceptance that contains different or additional terms, no matter how minor, is considered a counteroffer and, thus, a rejection of the original offer. The principle that an acceptance must be definite and unconditional is found in the civil law countries and in the CISG. Article 19(1) states, “A reply to an offer which purports to be an acceptance but contains additions, limitations or other modifications is a rejection of the offer and constitutes a counteroffer.” Thus, if the buyer places an order for a quantity of goods of a certain description, for shipment by air no later than “next Tuesday,” and the seller replies by promising ship-ment no later than “next Wednesday morning,” there
+
+
+is no contract. For many contracts this rule works fine, because it prevents contracts from arising when there was actually no mutual assent. It lessens the possibility of contract disputes. However, there are a few situations where strict adherence to the mirror image rule is not commercially practical. One of these situations is where the offeror and offeree, the buyer and seller, are communicating through an exchange of standard business forms, each of which contains extensive “fine print” provisions.
+
+Standard Business Forms and Contract Modifications
+
+Buyers and sellers often use standard business forms for quoting prices, placing orders, and acknowledging
+
+
+
+
+Copyright 2014 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
+
+Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
+
+Chapter 4: The Formation and Performance of Contracts for the Sale of Goods	101
+
+
+
+
+receipt of those orders. Two of the most common that we will discuss are the purchase order and the order confirmation. Business buyers commonly use a purchase order for placing orders for goods from their vendors. Typically, it includes the description and quantity of the goods ordered, a delivery address, and authorized buyer’s signature. It may also recite the prices that the buyer believes to be accurate and current for the goods, a desired shipping date, and any other contractual requirements the buyer may have. The order confirmation (also called a “sales acknowl-edgment”) is the seller’s formal confirmation of the buyer’s order, either accepting the order, rejecting it,
+
+
+
+or modifying its terms. Typically, these forms leave room on the front so the parties may insert important contract terms—those that they “bargained for,” such as price, quality, or ship date. The reverse side often contains detailed “fine print” provisions or standard clauses, often called terms and conditions or general conditions of sale (Exhibit 4.3).
+
+An attorney often drafts these terms and condi-tions to limit his or her client’s liability by placing greater responsibility on the other party. The parties may not even be aware of the legal significance of these seldom-read fine print provisions. For the most part, a seller would only read the most crucial
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© Cengage Learning
+
+
+Exhibit 4.3
+
+Seller’s Terms and Conditions of Sale
+
+(Seller’s Order Confirmation—Reverse Side)
+
+Pro Forma Invoice or
+
+TERMS AND CONDITIONS OF SALE
+
+1.Acceptance
+
+This constitutes acceptance by Seller of Buyer’s purchase order. This acceptance is expressly made conditional upon Buyer’s assent, express or implied, to the terms and conditions set forth herein without modification or addition. Buyer’s acceptance of these terms and conditions shall be indicated by any part of the following, whichever first occurs: (a) Buyer’s written acknowledgment hereof; (b) Buyer’s acceptance of shipment of the goods herein described; (c) Buyer’s failure to acknowledge or reject these terms and conditions in writing within five business days after delivery; or (d) any other act or expression of acceptance by the Buyer. Seller’s silence or failure to respond to any such subsequent term, condition, or proposal shall not be deemed to be Seller’s acceptance or approval thereof.
+
+2.Price and Delivery
+
+The quoted price for the goods may be varied by additions upwards by the Seller according to market conditions at the date of shipment and the Buyer shall pay such additions in addition to the quoted price, including but not limited to increases in the cost of labor, material, operations, and/or transport. Delivery and payment terms shall be made according to this order confirmation. Trade formulas used herein (e.g., CIF, CPT, FAS, or FOB) shall be interpreted according to Incoterms 2010. Payment in the currency and at the conditions of this confirmation.
+
+3.Force Majeure
+
+Seller shall not be liable for loss or damage due to delay in manufacture, shipment, or delivery resulting from any cause beyond Seller’s direct control or due to compliance with any regulations, orders, acts, instructions, or priority requests of any government authority, acts of God, acts or omissions of the purchaser, fires, floods, epidemics, weather, strikes, factory shutdowns, embargoes, wars, riots, delays in transportation, delay in receiving materials from Seller’s usual sources, and any delay resulting from any such cause shall extend shipment or delivery date to the extent caused thereby, and Seller shall be reimbursed its additional expenses resulting from such delay. In the case of delay lasting more than eight weeks, Seller has the right to cancel the contract. Receipt of merchandise by the Buyer shall constitute a waiver of any claims for delay.
+
+4.Warranties
+
+The Seller makes no representations or warranties with respect to the goods herein. Seller hereby disclaims warranties, express or implied, as to the products, including but not limited to, any implied warranty of quality or merchantability or fitness for any particular purpose, and the Buyer takes the goods on the Buyer’s own judgment. Seller is not liable for any damage or loss for a breach of warranty.
+
+5.Limitation of Liability
+
+Seller is not liable for any special, consequential, or incidental damages arising out of this agreement or the goods sold hereunder, including but not limited to damages for lost profits, loss of use, or any damages or sums paid by Buyer to third parties, even if Seller has been advised of the possibility of such damages.
+
+6.Governing Law
+
+In respect of any standard, test, mode of inspection, measurement, or weight, the practice governing the same adopted for use in United States shall prevail. This agreement shall be governed by the Laws of North Carolina and in the event of any dispute arising, whether touching on the interpretation hereof or otherwise, the same shall be resolved before the General Court of Justice of the State of North Carolina.
+
+
+Copyright 2014 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
+
+Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
+
+102Part 2: International Sales, Credits, and the Commercial Transaction
+
+
+
+
+provisions on the front page of a buyer’s purchase order to see what was ordered. A buyer may only glance at the key provisions of the seller’s confirma-tion to see when the goods will be shipped. The preprinted terms on these forms may differ, some-times in significant ways.
+
+Here are several examples of how they might differ:
+
+•Buyer’s purchase order allows the buyer to bring suit for consequential damages if the seller breaches the contract. Seller’s confirmation specifically excludes consequential damages.
+•Buyer’s purchase order calls for disputes to be resolved in the buyer’s country. Seller’s confirmation calls for disputes to be heard in the courts of the seller’s country.
+
+•Buyer’s purchase order requires shipment by a certain date named in the order. Seller’s confirmation allows a grace period for late shipping or provides for excuses for late shipment.
+
+•Buyer’s purchase order is silent about whether the buyer has to notify the seller in the event of problems with the merchandise. Seller’s confirmation requires buyer to notify the seller of any problems in the order within seven days.
+
+The potential for conflict is almost endless. When this occurs, lawyers call it a battle of the forms.
+
+The “Battle of the Forms” under the Common Law and Civil Law. If a seller sends a confirmation in response to a buyer’s purchase order and the seller’s form contains differing or additional terms, no matter how minor, then no contract exists. The mirror image rule has been violated. Each form or correspondence between them is considered a counteroffer, canceling the previous one. If the parties do not perform, then no contract is formed. If the parties do perform—the seller ships the goods—then that action is an acceptance of the terms on the other party’s last form. The result usually is that the form sent last in time will prevail as the contract. The rule is, however, different in the United States.
+
+The “Battle of the Forms” under the UCC. In the United States, the mirror image rule has been modified by statute to deal with modern business practices and to avoid the problems in the preceding examples. Under subsections 1 and 2 of the original UCC 2-207:
+
+1.A written confirmation that is sent within a reasonable time operates as an acceptance even though it states terms additional to or different from those in the purchase order, unless the
+
+
+
+confirmation “is expressly made conditional on assent to the additional or different terms.”
+2.If both parties are merchants, any additional terms contained in the seller’s confirmation automatically become a part of the contract unless:
+
+a.The buyer’s purchase order “expressly limits acceptance” to the terms in that order;
+b.The additional terms in the confirmation materially alter the terms of the order; or
+
+c.The buyer notifies the seller of an objection to the additional terms within a reasonable time after receiving the confirmation containing the new terms.
+
+A careful reading of UCC 2-207 shows that the UCC attempts to uphold the intentions of the parties by keeping the contract in existence where there are only minor differences between the forms used by the parties. The UCC states that, between merchants, an acceptance by a confirmation that contains additional terms that reflect only minor changes from the buyer’s order will be effective to produce a contract, and the minor terms become a part of it (unless the buyer notifies the seller of an objection to the new term). A minor term might be one that is in usual and customary usage in the trade. Adding a provision that calls for an interest penalty for late payment is an example of a minor term (only because such penalties are common in sales contracts).
+
+The situation is different in the case of new terms in the acceptance that attempt to materially alter the offer. A material term is generally considered to be one that is not commonly accepted in the trade and that would result in surprise hardship to one party if unilaterally included in the contract by the party. Such new terms do not become a part of the contract unless accepted by the other party. Sellers who wish for assurance that their order confirmation will comprise the entire agreement should request that the buyer show its acceptance of the new terms by signing the confirmation and returning the completed contract to them.
+
+Proposed amendments to UCC 2-206 and 2-207, if adopted, would simplify the “battle of the forms” problem (Exhibit 4.4).
+
+The Battle of the Forms under the CISG. The CISG rules fall somewhere between the rules set out by the common and civil law and the UCC. In an international sales transaction governed by the CISG, an acceptance containing new terms that do
+
+
+Copyright 2014 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
+
+Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
+
+Chapter 4: The Formation and Performance of Contracts for the Sale of Goods	103
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© Cengage Learning
+
+
+
+
+Exhibit 4.4
+
+Proposed Amendments to UCC 2-206 and 2-207*
+
+§2-206. Offer and Acceptance in Formation of Contract.
+
+(3)A definite and seasonable expression of acceptance in a record operates as an acceptance even if it contains terms additional to or different from the offer.
+
+§2-207. Terms of Contract; Effect of Confirmation.
+
+If (i) conduct by both parties recognizes the existence of a contract although their records do not otherwise establish a contract,
+
+(ai)a contract is formed by an offer and acceptance, or (iii) a contract formed in any manner is confirmed by a record that contains terms additional to or different from those in the contract being confirmed, the terms of the contract, subject to Section 2-202, are:
+
+(a)terms that appear in the records of both parties;
+
+(b)terms, whether in a record or not, to which both parties agree; and
+
+(c)terms supplied or incorporated under any provision of this Act.
+
+Preliminary Official Comment
+
+1.This section applies to all contracts for the sale of goods, and it is not limited only to those contracts where there has been a “battle of the forms.”
+
+* Subject to enactment by state legislatures.
+
+
+
+
+not materially alter the terms of the offer becomes a part of the contract, unless the offeror promptly objects to the change. However, a purported accep-tance that contains additional or different terms that materially alter the terms of the offer would constitute a rejection of the offer and a counteroffer. No contract would arise at all unless the offeror in return accepted all of the terms of the counteroffer. Under the CISG, an acceptance of the counteroffer may arise by assent or by performance. In other words, if the original offeror takes some steps toward performing the contract after having received a counteroffer, the offeror will be deemed to have accepted the counteroffer and a contract will be created on the new terms.
+
+Unlike the UCC, the CISG states those key elements of a contract that will materially alter a contract: price, payment, quality and quantity of goods, place and time of delivery, extent of one party’s liability to the other, and settlement of disputes. This list is so broad that almost any term could conceivably be interpreted as “material.” Thus, under the CISG, almost any new or different term in the acceptance could constitute a counteroffer. The effect is that many businesspeople may believe that they are “under contract” when they really are not.
+
+
+
+The Validity of Standard Contract Terms: A Comparison. Today, there is wide use of so-called fine print or standard terms in contracts. They offer many advantages to businesses by eliminating the need to negotiate all the details of a contract every time goods are sold. In the United States, standard terms are generally permitted in business-to-business contracts unless in violation of a statute or struck down by the courts for other reasons. However, in some civil law countries, such as China or Germany, to take two examples, the statutes are quite specific about the kinds of standard contract terms that are permissible.
+
+China takes a clear legal approach to the validity of standardized terms. Chinese law requires standardized terms to be fair in limiting the rights and liabilities of the parties. The terms must be brought to the attention of the other party, and they must be explained if requested. Caution should be used when using standardized terms in China because, if they are not fairly negotiated between both parties, they might be declared invalid. Grounds for invalidation include fraud, duress, illegality, harm to the public interest or the interest of the state, and exclusion of one party’s liability for personal injury or property loss caused by intentional misconduct or gross negligence.
+
+
+
+
+Copyright 2014 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
+
+Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
+
+104Part 2: International Sales, Credits, and the Commercial Transaction
+
+
+
+
+The German Civil Code has more detailed provi-sions dealing with standard contract terms. Standard business terms are defined as “contract terms pre-formulated for more than two contracts which one party to the contract presents to the other party upon the entering into of the contract.” The form of the contract, typeface, font, or physical separation of terms in different documents is irrelevant to this determination. Individually negotiated terms take precedence over standard business terms. Parties may agree in advance to the application of particular standard business terms. In the absence of such advance agreement, standard business terms are incorporated into a contract only if the user expressly draws the other party’s attention to them, gives the other party a reasonable opportunity to gain knowl-edge of their content, and the other party is agreeable to their application. Standard terms that unreasonably disadvantage a party are ineffective. Examples include terms providing for unreasonably long periods of time for acceptance or performance and unilateral reserva-tion of the rights to revoke or modify the contract. If all or some standard business terms do not become part of the contract or are invalidated, the remainder of the contract continues to be valid unless its performance would be an unreasonable hardship for one party. In the event of doubt, standard business terms are to be interpreted against the user.
+
+PERFORMANCE OF CONTRACTS
+.......................................................................
+
+The primary responsibility of the buyer (Articles 53-60) is to pay the price for the goods and take delivery at the time and in the manner promised. The primary responsibility of the seller (Articles 30-35) in perform-ing a contract for the sale of goods is to deliver conforming goods in the manner specified and within the time called for in the contract.
+
+Performance of Seller
+
+One of the primary responsibilities of the seller is to deliver conforming goods. CISG Article 35 states, “The seller must deliver goods which are of the quantity, quality and description required by the contract and which are contained or packaged in the manner required by the contract.” Goods that do not conform to the requirements of the contract are
+
+
+
+said to be nonconforming. This includes all express descriptions, specifications, representations, and war-ranties set out in the contract. They must also comply with representations implied in the contract by law.
+
+Implied Warranties. In the United States, the UCC creates certain implied warranties on goods that become a part of the contract by law (Exhibit 4.5). This includes the warranty of merchantability (drawn from the English common law), the warranty of fitness for a particular purpose in which the buyer relies on the skill and expertise of the seller, and the warranty of title. The CISG has similar provisions. Under CISG Article 35, unless otherwise agreed by the parties, the seller must deliver goods that are of the quantity, quality, and description required by the contract and that
+
+1.Are fit for the purposes for which goods of the same description would ordinarily be used (unless at the time of contracting, the buyer knew or could not have been unaware that the goods were unfit; the seller’s knowledge in this case is not relevant). This corresponds to the warranty of
+
+
+
+
+Exhibit 4.5
+
+	UCC Implied Warranties, Merchantability,	
+	and Usage of Trade	
+			
+	§2-314(2)   Goods to be merchantable must be at least	
+	such as	
+	(a) pass without objection in the trade under	
+	the contract description; and	
+	(b) in the case of fungible goods, are of fair	
+	average quality within the description;	
+	and	
+	(c) are fit for the ordinary purposes for which	
+	such goods are used; and	
+	(d) run, within the variations permitted by the	
+	agreement, of even kind, quality, and	
+	quantity within eachunit and  among all	
+	units involved; and	
+	(e) are adequately contained, packaged, and	
+	labeled as the agreement may require; and	
+	(f) conform to the promises or affirmations	
+	of fact made on the container or label if	
+	any.	Learning
+	§2-314(3)   (a) Unless excluded or modified other implied	
+		
+	warranties may arise from course of	©Cengage
+	dealing or usage of trade.	
+		
+			
+
+
+Copyright 2014 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
+
+Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
+
+Chapter 4: The Formation and Performance of Contracts for the Sale of Goods	105
+
+
+
+
+merchantability under the common law and the UCC and to the implied representation that goods be of “average quality” under European civil law.
+
+2.Are fit for any particular purpose expressly or impliedly made known to the seller at the time of the conclusion of the contract, except where the circumstances show that the buyer did not rely, or that it was unreasonable for him to rely, on the seller’s skill and judgment.
+
+3.Possess the qualities of goods that the seller has held out to the buyer as a sample or model.
+4.Are contained or packaged in the manner usual for such goods or, where there is no such manner, in a manner adequate to preserve and protect the goods (unless at the time of contracting, the buyer knew or could not have been unaware that the goods were not properly packaged).
+
+The CISG does not prevent parties from waiving these representations. The drafters of the CISG wanted to give the parties as much freedom of contract as possible, in part because the Convention does not apply to consumer sales.
+
+Conformance to Laws and Regulation in Buyer’s Country. Technical regulations setting standards for product design and performance can vary widely from country to country. This might include safety standards for foods, pharmaceuticals, automobiles, toys, and consumer goods; flammability standards for children’s clothing; fire and electrical codes; health codes; environ-mental standards; and rules for packaging or labeling products. Obviously, these issues are more important in international trade, where the standards are far less uniform, than in domestic commerce. Does Article 35 require the seller to supply goods that conform to the national laws of the buyer’s country? The cases seem to depend on the factual situations. The issue often turns on whether the seller knew the uses to which the goods would be put, whether it knew of the regulations in the buyer’s country affecting that use, and whether the buyer had relied on the seller’s knowledge and expertise. It is usually only then that a court would hold that goods are nonconforming if they do not meet the regulations for sale in the buyer’s country.
+
+This issue was addressed by the Federal Supreme Court of Germany in 1995, in the Case of New Zealand Mussels. (Translations available online from the Pace Law School Institute of International Commercial Law or from UNCITRAL.) This case dealt with a shipment of mussels from New Zealand to Germany that
+
+
+
+contained concentrations of cadmium exceeding those recommended by German health authorities. Generally, foodstuffs must be sold in a condition “fit for human consumption.” However, the court held that since the mussels were still edible (they are generally not dangerous unless eaten in large quanti-ties) they had conformed to the contract. The court held that the seller was not responsible for complying with the German standards unless it had known of the standards and was aware that this was essential to the buyer, or if similar standards had existed in the exporting country. It did not seem to matter to the German court whether the food safety standards were binding rules or simply “recommended” limits. This should send a warning to international buyers. If it is important that foreign goods meet local standards or regulations, this requirement should be clearly set out in the contract.
+
+
+
+Performance of Buyer
+
+We said that the buyer’s main responsibility is to pay the price for the goods and take delivery of them as required (Article 53). In addition, the buyer has an obligation to inspect the goods and notify the seller of any nonconformity.
+
+Inspection and Notice of Nonconformity. The buyer must inspect the goods within “as short a period as is practicable in the circumstances” after they have arrived at their destination (Article 38). Obviously, foodstuffs and perishables require inspection more quickly than durable goods like machinery. The buyer must then give notice of any defect or nonconformity in the goods within a reasonable time after it is discovered or ought to have been discovered. If the defect can be discovered only upon use, the buyer has a reasonable period from that time to notify the seller. Some defects or other nonconformities may be latent, or hidden, and may take longer to detect. There is no set time limit on discovering these, although the time within which notice must be given to the seller of the nonconformity begins to run at the time that the seller “ought to have discovered” the hidden defect (Article 39). In any event, notice must be given within two years from the date on which the goods were “handed over” to the buyer. If the buyer fails to give timely and proper notice, the buyer loses the right to assert the breach against the seller. The parties are free to agree on other inspection and notice requirements and frequently do so in international business.
+
+
+Copyright 2014 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
+
+Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
+
+106Part 2: International Sales, Credits, and the Commercial Transaction
+
+
+
+
+The notice of nonconformity should specifically, and in necessary detail, state how the goods are nonconforming. This is necessary so a breaching party can send substitute goods or otherwise correct the problem. In one German case, a German fashion retailer purchased clothing from an Italian manufac-turer. The buyer refused to pay and notified the seller that the clothes were of “poor workmanship and improper fitting.” The German court, applying the CISG, ruled that the buyer had lost his breach of
+
+
+
+
+warranty claim because the notice did not precisely say why the goods were defective or nonconforming. Another German case refused to excuse a German purchaser of chrysanthemums and hydrangeas from payment in full to an Italian seller on that the plants were of “poor quality” and were “miserable.” An American example of the buyer’s inspection and notification obligations pursuant to the CISG is set forth in the court’s opinion in Chicago Prime Packers, Inc. v. Northam Food Trading Co.
+
+
+
+Chicago Prime Packers, Inc. v. Northam Food Trading Co.
+
+320 F. Supp. 2d 702 (2004) United States District Court (N.D. Ill.)
+
+
+BACKGROUND AND FACTS
+
+Chicago Prime Packers, Inc., was a Colorado corpora-tion with its principal place of business in Avon, Colorado. Northam Food Trading Company was a Canadian corporation with its principal place of busi-ness in Montreal, Quebec, Canada. Chicago Prime and Northam were wholesalers of meat products. In March 2001, Chicago Prime contracted with Northam to sell 1,350 boxes of government inspected fresh, blast frozen pork back ribs, which Chicago Prime purchased from Brookfield Farms, a meat processor. The agreed on price for the ribs was $178,200.00, and payment was required within seven days from the date of shipment. The ribs were stored at three different locations en route to Northam’s customer Beacon Premium Meats but at all times were stored at or below acceptable temperatures. However, the ribs ultimately proved to be spoiled and were condemned by the U.S. Depart-ment of Agriculture. Nevertheless, Chicago Prime continued to demand payment from Northam. Chicago Prime sued Northam for breach of contract because it refused to pay for the ribs.
+
+MEMORANDUM OPINION AND ORDER
+
+In this case, it is undisputed that the parties entered into a valid and enforceable contract for the sale and purchase of pork loin ribs, Chicago Prime transferred a shipment of pork loin ribs to a trucking company hired by Northam, Northam has not paid Chicago Prime for the ribs pursuant to the contract, and Chicago Prime has suffered damages in the amount of the contract price. Therefore, Chicago Prime has estab-lished the essential elements for a breach of contract claim. Northam asserts, however, that the ribs were spoiled at the time of transfer and, as a result, it is relieved of its duty to pay under the contract. The
+
+burden is on Northam to establish non-conformity. The evidence is evaluated in light of that burden.
+
+1.Northam has failed to prove that the ribs were non-conforming at the time of transfer …
+
+Chicago Prime produced evidence … that the ribs delivered by Brookfield were processed and stored in acceptable conditions and temperatures from the time they were processed until they were transferred to Northam on April 24, 2001 … The ribs were appropri-ately processed and maintained in acceptable tempera-tures while at Brookfield; and no other meat products that were processed and stored at the same time and under the same conditions as the ribs were found to be spoiled or objectionable …
+
+Northam argues that Chicago Prime has “utterly failed to establish that the ribs were damaged while at Beacon.” That argument ignores the fact that Northam carries the burden of proving that the ribs were non-conforming at the time of receipt.
+
+2.Northam failed to prove that it examined the ribs, or caused them to be examined, within as short a period as is practicable under the circumstances.
+
+Northam is correct that “there were no contractual [terms] requiring inspection upon delivery.” … When an issue is not addressed by the contract, the provisions of the CISG govern. Because the contract at issue did not contain an inspection provision, the requirement under the CISG that the buyer examine the goods, or cause them to be examined, “within as short a period as is practicable in the circumstances” is controlling. CISG, Art. 38(1). Decisions under the CISG indicate that the buyer bears the burden of proving that the goods were inspected within a reasonable time. See, e.g., Fallini Stefano & Co. s.n.c. v. Foodic BV, [citation omitted] …The determination of what period of time is “practicable” is a factual one and depends on the circumstances of the case …
+
+continues
+
+
+
+Copyright 2014 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
+
+Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
+
+Chapter 4: The Formation and Performance of Contracts for the Sale of Goods	107
+
+
+
+continued
+
+
+
+Section 3 of Article 38 of the CISG provides that “if the goods are redirected in transit or redispatched by the buyer without a reasonable opportunity for exami-nation by him and at the time of the conclusion of the contract the seller knew or ought to have known of the possibility of such redirection or redispatch, examina-tion may be deferred until after the goods have arrived at the new destination.” CISG, Art. 38(3). In this case, Chicago Prime knew, or ought to have known, that the ribs would be redirected or redispatched after receipt because Chicago Prime knew that Northam was only a “trading company,” which is defined as a company that buys and sells meat, but does not own any facilities, brick and mortar, or trucks. Thus, under the CISG, examination of the ribs could have been deferred until after they arrived at Beacon.
+
+It is notable, however, that Northam did not present any testimony or evidence as to why the ribs or a portion of the ribs were not and could not have been examined by Northam, Beacon, or someone acting on their behalf when the shipment was delivered to Beacon or within a few days thereafter … Northam points out that the ribs were wrapped and shipped in sealed non-transparent cartons or packages that are either white or brown. However … nothing would have precluded a Beacon representative from opening and inspecting the boxes of ribs … Northam simply did not present any evidence indicating why the boxes or at least enough of the boxes to constitute a reasonable inspection could not have been opened and examined when they arrived at Beacon or shortly after arrival … Accordingly, Northam has failed to demonstrate that it examined the ribs, or caused them to be examined within as short a period as is practicable under the circumstances.
+
+3.Northam also failed to prove that it gave notice to Chicago Prime of the alleged lack of conformity within a reasonable time after it ought to have discovered the alleged lack of conformity.
+
+Article 39 of the CISG states that “[a] buyer loses the right to rely on a lack of conformity of the goods if he does not give notice to the seller specifying the nature of the lack of conformity within a reasonable time after he has discovered it or ought to have discovered it.” CISG, Art. 39. A buyer bears the burden of showing that notice of nonconformity has been given within a reasonable time. The evidence shows that, shortly after Beacon discovered the ribs were “off condition” and did not “look good,” both Northam and Chicago Prime were notified of a potential problem. Chicago Prime therefore received notice within a reasonable time after Northam discovered the problem; however, the question here is whether Chicago Prime was
+
+notified within a reasonable time after Northam should have discovered the problem.
+
+A court in Italy found that the reasonableness of the time for a notice of non-conformity provided in Article 39 is strictly related to the duty to examine the goods within as short a period as is practicable in the circumstances set forth in Article 38. See Sport D’Hiver di Genevieve Culet v. Ets Louys et Fils, [citation omitted]. The court further noted that when defects are easy to discover by a prompt examination of the goods, the time of notice must be reduced. The putrid condition of the meat was apparent even in its frozen state …
+
+Because this court has found that Northam failed to examine the shipment of ribs in as short a period of time as is practicable, it follows that Northam also failed to give notice within a reasonable time after it should have discovered the alleged non-conformity.
+
+In summary, the object of the CISG in requiring inspection in as short a period of time as is practicable, and notice promptly thereafter, is to avoid controver-sies such as this—where, because of the passage of time, the condition of the goods at the time of transfer cannot be reliably established. When that happens, the burden falls on the buyer, who had the opportunity to inspect the goods, but failed to do so.
+
+Decision. The district court concluded that the buyer failed to satisfy its obligations with respect to the inspection of the goods and notification of the seller of non-conformities within a reasonable time. As a result, the court entered judgment in favor of the seller in the amount of $178,200.00 plus $27,242.63 in interest for a total payment of $205,442.63.
+
+Comment. This case is interesting not only with respect to ascertaining the buyer’s duties of inspection and notification but also for its discussion of sources for interpretation of the CISG. The court cited Dutch and Italian case law in reaching its conclusion and addition-ally noted that the CISG must be interpreted in a man-ner consistent with its international character and the need to promote uniformity and good faith in interna-tional trade.
+
+Case Questions
+
+1.What was the court’s decision with respect to Chicago Prime Packer’s claim for breach of contract?
+
+2.What should Northam have done in order to avoid the result in this case?
+
+3.Is the court’s opinion overly harsh given that Northam was only a trading company and not the end user of the product? Why or why not?
+
+
+
+
+Copyright 2014 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
+
+Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
+
+108Part 2: International Sales, Credits, and the Commercial Transaction
+
+
+
+
+REMEDIES FOR BREACH OF CONTRACT
+.......................................................................
+
+In the event of a breach of contract, the remedies available to a buyer or seller are set out in the CISG. In principle, these remedies are drawn from both the common law and civil law systems. They are intended to give the parties the benefit of their bargain and to put the parties into the economic position they would have been in had the breach not occurred. The remedies outlined in the CISG include (1) avoidance (cancellation) of the contract;
+
+(2)the right to remedy or cure; (3) the setting of an additional time, or extension, for performance;
+
+(4)price reduction; (5) money damages; and (6) spe-cific performance. The right to a remedy depends on whether or not the failure of performance amounted to a fundamental breach.
+
+The Requirement of Fundamental Breach
+
+The CISG distinguishes between a serious or funda-mental breach of the contract and one that is minor or less than fundamental. Article 25 defines a funda-mental breach as a breach of contract committed by one of the parties that “results in such detriment to the other party as substantially to deprive him of what he is entitled to expect under the contract, unless the party in breach did not foresee and a reasonable person of the same kind in the same circumstances would not have foreseen such a result.” Examples of fundamental breaches include shipment of less than the full quantity of goods ordered by the buyer, the seller’s shipment of seriously defective goods that cannot be repaired or replaced on time, or that have no value to the buyer under the contract and, of course, the seller’s failure or refusal to ship at all. Late shipments are more problematic, because this is so common in international shipping. Most late ship-ments are not a fundamental breach, and under the CISG sellers are usually given additional time to perform even when they are late. A partial shipment may also amount to a fundamental breach if it presents a serious problem for the buyer and one that cannot quickly be remedied. A buyer may also be in fundamental breach of a contract. This usually results from the buyer’s refusal or inability to live up to its two primary responsibilities—to take delivery and to pay for the goods.
+
+
+
+Seller’s Right to Cure
+
+The CISG attempts to encourage the parties to stay in their contract rather than to repudiate it in the event of a dispute. It does this by giving the seller (and the buyer) additional time to perform.
+
+Both the UCC and the CISG allow the seller to remedy, or cure, a nonconforming shipment if it can be done within the time for performance called for in the contract. So, if the contract calls for the seller to deliver goods to the buyer by October 1, but defective goods arrive on September 15, then the seller may “cure” by delivering a second shipment of conforming goods by October 1.
+
+Nachfrist Period. Unlike the UCC, civil law systems traditionally grant an extension of time, beyond the date called for in the contract, within which the parties may perform. French civil law often refers to this grace period as mise en demeue, while German law calls it nachfrist, meaning “the period after.” The CISG adopts this civil law rule in Articles 47 -49. In the event that the seller has failed to deliver the goods, or has already delivered nonconforming goods, and the time for their shipment or delivery has passed, the seller may request the buyer to grant a reasonable extension of time to perform (or to “cure” the problem), at the seller’s own expense, if it can be done without causing the buyer unreasonable incon-venience or the uncertainty of reimbursement of expenses incurred during the extension. If the breach is fundamental and, a “cure” seems impossible, the buyer need not grant the extension. In the case of the delivery of nonconforming goods resulting in a breach that is not fundamental, or in the case of a nondelivery that can be cured by the seller within a reasonable time, the buyer may not unreasonably refuse the extension. If the buyer does not respond to the seller’s request within a reasonable time, the seller is entitled to the requested extension. If the seller still does not perform within the extension of time, the buyer is then released from the contract whether or not the breach was fundamental.
+
+Buyer’s Right to Avoidance. When one party fails to perform, the contract does not automatically end. The contract, or certain provisions of it, must be declared to be at an end, or “avoided” by one of the parties. A buyer may declare a contract avoided where the seller’s failure to perform any obligation amounts to a fundamental breach (Article 49). If the seller requests additional time to cure a fundamental
+
+
+Copyright 2014 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
+
+Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
+
+Chapter 4: The Formation and Performance of Contracts for the Sale of Goods	109
+
+
+
+
+breach, the buyer need not grant it. If the buyer takes delivery of goods and learns they are so seriously defective as to amount to a fundamental breach, the buyer must declare avoidance within a reasonable time after he or she became aware, or should have become aware, of the breach. The buyer need not pay for the goods or find a substitute buyer to take them. After notifying the seller of the avoidance, the buyer may simply return them for a full refund of money paid or institute an action for breach of contract. When the goods can rapidly deteriorate or decay, such as with certain foods, the buyer may notify the seller and then take steps to sell them. These rights are especially important to a buyer in an interna-tional transaction because of the hardships associated with having to accept delivery and then reselling or disposing of imported goods in a foreign (i.e., the buyer’s) market.
+
+In the case of nondelivery, the buyer may avoid the contract only at the end of the nachfrist period—at the end of additional time that the seller was given to perform. The buyer may bring an action for damages against the seller at that time.
+
+Seller’s Right to Avoidance. The seller also may avoid a contract. A seller may avoid a contract if a buyer fails to either take delivery or pay the purchase price or otherwise commits a fundamental breach (Article 64). The effect of avoidance is that the seller is released from the contract, need not deliver the goods still in the seller’s possession, and may claim their return if they have already been delivered. The seller also may bring a legal action for damages.
+
+Price Reduction
+
+One solution for the buyer in the event that the seller ships defective or nonconforming goods is that of price reduction (CISG Article 50) . A buyer who would like to retain the goods, even though they are perhaps not the quality or specifications called for, may adjust the amount paid by withholding a part of the purchase price in order to offset the reduced value of the nonconforming goods. If the buyer can repair the goods or bring them up to contract specifications, the buyer may adjust the price paid accordingly. If the goods have already been paid for, the buyer may ask that the seller return a portion of the amount paid. The buyer may use the remedy of price reduction whether or not the seller’s breach has been fundamental.
+
+
+
+Money Damages
+
+In breach of contract cases, the usual remedy granted by common law courts is the awarding of money damages. Damages for breach of contract are addressed in Articles 74-77. The CISG provides that a breaching party, whether buyer or seller, shall be liable for damages in an amount sufficient to make the injured party whole in the event of a breach. Article 74 states that damages to an injured party shall consist of a “sum equal to the loss.”
+
+Compensatory Damages. In the event of a breach of contract by either buyer or seller, and the nonbreach-ing party has exercised their right to avoidance of the contract, the method of measuring money damages depends on whether the nonbreaching party has been able to enter into a substitute transaction. For example, if the seller fails to deliver or delivers nonconforming or worthless goods, and the buyer has been able to purchase substitute goods, the buyer may claim damages if the substitute goods cost more than the contract price. If the buyer has not purchased substitute goods, damages are measured by the difference between the contract price and the current market price or the price of a reasonable substitute. Similarly, if the buyer refuses delivery or fails to pay and the seller has avoided the contract and resold the goods, the seller may recover damages in the amount by which the contract price exceeded the price received in the substitute transaction.
+
+Consequential Damages. The CISG also permits recovery of consequential damages. Consequential damages are those special or indirect damages arising as a “reasonably foreseeable” consequence of the breach. They normally result from some special circumstances involving one of the parties to the contract, where those special circumstances were made known, or should have been known, by the other party. For example, assume that the buyer is purchasing the goods in order to resell them at a higher price under a separate contract to a third party. That fact is made known to the seller. If the seller breaches, it may be liable for the buyer’s lost profits as well as other consequential damages resulting from the buyer’s breach to the third party. Consequential damages are limited under Article 74 to those that the parties “foresaw or ought to have foreseen at the time of the conclusion of the contract.” To compare the provisions for consequential damages in the CISG and the UCC, see Exhibit 4.6.
+
+
+Copyright 2014 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
+
+Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
+
+110Part 2: International Sales, Credits, and the Commercial Transaction
+
+
+
+
+
+
+Exhibit 4.6
+
+
+Comparison of Consequential Damage Provisions of the CISG and the UCC
+
+
+
+CISG Article 74
+
+Damages for breach of contract by one party consist of a sum equal to the loss, including loss of profit, suffered by the other party as a consequence of the breach. Such damages may not exceed the loss which the party in breach foresaw or ought to have foreseen at the time of the conclusion of the contract, in the light of the facts and matters of which he then knew or ought to have known, as a possible consequence of the breach of contract.
+
+UCC 2-715
+
+Buyer’s Incidental and Consequential Damages
+
+1.Incidental damages resulting from the seller’s breach include expenses reasonably incurred in inspection, receipt, transportation, and care and custody of goods rightfully rejected, and commercially reasonable charges, expenses, or commissions in connection with effecting cover and any other reasonable expense incident to the delay or other breach.
+
+2.Consequential damages resulting from the seller’s breach include
+
+a.any loss resulting from general or particular requirements and needs of which the seller at the time of contracting had reason to know and which could not reasonably be prevented by cover or otherwise; and
+b.injury to person or property proximately resulting from any breach of warranty.
+
+Uniform Commercial Code, copyright by The American Law Institute and National Conference of Commissioners on Uniform State Laws.
+
+Reprinted with the permission of the Permanent Editorial Board for the Uniform Commercial Code. All rights reserved.
+
+
+
+Liquidated Damages. Liquidated damages are monetary awards set forth and agreed to by the parties within the express terms of a breached agreement. The CISG does not expressly address liquidated damages as a measure of damages. Rather, it indirectly addresses liquidated damages in several provisions. CISG Article 6 allows for the incorporation of agreed sums into a contract for the sale of goods through its recognition of the principle of freedom of contract. Articles 46 and 62 recognize the principle of pacta sunt servanda, specifically, that contractual obligations must be kept. Finally, Article 74 recognizes the necessity of providing full compensation for injured parties in the event of breach of contract. In American Mint LLC v. GOSoftware, Inc., a U.S. district court held that these provisions would not preclude enforcement of a liquidated damages clause pursuant to the CISG.
+
+Specific Performance
+
+The usual legal remedy in contract cases in common law countries is an award for money damages. The usual remedy in civil law countries, on the other hand, is that of specific performance. Specific performance is used when a court requires a party to the contract to perform, or carry out its part of the bargain. To be sure, courts in the United States and
+
+
+
+other common law countries hesitate to require parties to specifically perform. It is considered a harsh remedy for use only where money damages cannot be calculated or are inadequate, which may occur when the subject matter of the contract is unique.
+
+Specific Performance Under the CISG. The CISG draws strongly on the civil law’s acceptance of specific performance as a remedy in contract cases. Under Article 46, a court may grant specific performance only if all of the following conditions are met: (1) the buyer has not resorted to another remedy; (2) the seller failed to deliver or, in the case of nonconforming goods, the nonconformity was so serious that it constituted a fundamental breach;
+
+(3)the buyer gave timely notice to the seller that the goods were non-conforming; and (4) the buyer made a timely request that the seller provide substitute goods. The court may grant specific performance without regard to whether money damages are inadequate.
+
+The provisions of the CISG probably will not have much effect on the law in common law countries. Article 28 places a limit on the buyer’s right to specific performance by providing that a court need not grant specific performance unless “it would do so under its own law.” Thus, the CISG will have little
+
+
+Copyright 2014 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
+
+Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
+
+Chapter 4: The Formation and Performance of Contracts for the Sale of Goods	111
+
+
+
+
+effect on the use of specific performance in the United States.
+
+Anticipatory Breach
+
+Anticipatory breach occurs when one party clearly sees that the other party to the contract either will not perform a substantial part of its obligations or will commit a fundamental breach. The breach may occur as a result of one party repudiating the contract and notifying the other that it will not perform, or it may be determined from the conduct of the breaching party.
+
+Right to Suspend Performance. Either party may suspend performance under a contract if one party realizes that the other party will not perform a “substantial part” of its obligations. A buyer may suspend payment when aware of evidence that the seller cannot or will not ship. A seller may suspend shipment when the buyer obviously cannot pay or take delivery of the goods. A seller who has already shipped may stop the goods in transit. The right to suspend performance ends when the other party provides adequate assurance that it will perform. If adequate assurance becomes impossi-ble, the other party may then avoid the contract entirely.
+
+Right to Avoid Performance for Anticipatory Breach. If prior to the date of performance it becomes clear that one of the parties is likely to commit a fundamental breach in the future, the other party may avoid the contract. This is similar to the common law concept of “anticipatory breach.” In contrast to the right to suspend, avoidance for anticipatory breach is allowed where one party will never be able to perform. For instance, if the seller’s plant burns down, or if an embargo in the seller’s country makes it legally impossible to ship the contracted goods, then the buyer may avoid the contract.
+
+Avoidance of Installment Contracts. When a con-tract calls for the delivery of goods by installments, the rules of avoidance apply to each individual delivery. Therefore, a buyer may refuse a single nonconforming shipment if the seller has committed a fundamental breach. Where the breach of one installment indicates strong grounds that a party will breach future installments, the nonbreaching party may declare the contract avoided if done within a
+
+
+
+reasonable time. So, if a buyer refuses to pay for one or two installments, the seller may avoid the remainder of the contract.
+
+EXCUSES FOR NONPERFORMANCE
+.......................................................................
+
+Occasionally, a party will find that circumstances make carrying out its part of the contract diffi-cult, unprofitable, or even impossible. As a defense to an action for breach of contract, it may claim that it has been excused because inter-vening events beyond its control have made per-formance impossible or financially impracticable. Whether an intervening event will cause a party to be excused and discharged from its contractual promise depends on the reasoning the court uses. Some courts reason that a party’s performance is excused (1) if performance of the contract has been rendered physically or legally impossible,
+
+(2)if the underlying purposes of the contract no longer exist, or (3) if a change in circumstances has rendered the contract commercially or finan-cially impracticable.
+
+Impossibility of Performance
+
+Under English law, a court may excuse a party’s nonperformance where it becomes objectively impos-sible for it to perform. Objective impossibility means that it must be impossible for anyone to perform, not just this particular party, and that the parties did not expressly assume such risk. Examples of objective impossibility include death of one of the parties, the destruction of the specific subject matter of the contract, or when performance of the contract has been rendered illegal or made impossible due to the fault of the other party. The inability to pay money is not usually an acceptable excuse.
+
+Supervening Illegality. A contract becomes impos-sible to perform and the parties excused when performance becomes illegal or prohibited by super-vening government regulation. For instance, suppose that a U.S. company is under contract to ship computers to Syria. As a result of the ongoing Syrian civil war, the U.S. government declared that such sales were illegal. Because the contract has been rendered illegal, nonperformance is excused.
+
+
+
+Copyright 2014 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
+
+Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
+
+112Part 2: International Sales, Credits, and the Commercial Transaction
+
+
+
+
+Frustration of Purpose
+
+Under the English common law, a party’s perfor-mance could be excused if some unforeseen event occurred that frustrated the purposes of the contract. This event, called frustration of purpose, would have to totally destroy the value of the contract to the party relying on the excuse. Moreover, both parties must have known the purposes of the contract. To understand, one might ask the question, “Had this event existed at the time of the contract, would the parties have gone through with it?” Today, the United States does not widely recognize frustration of purpose.
+
+Commercial Impracticability
+
+A party to a contract that is prevented from performing may attempt to be excused under the doctrine of commercial impracticability. The United States uses this modern doctrine today. It dates back to 1916 when the California Supreme Court stated in Mineral Park Land Co. v. Howard, 156 P. 458 that “[a] thing is impossible in legal contemplation when it is not practicable; and a thing is impracticable when it can be done only at an excessive and unreasonable cost.” Today, impracticability in the United States has been codified in the UCC (Exhibit 4.7) and in Article 79 of the CISG. Remember, courts hesitate to excuse parties from contracts. Accordingly, the breaching party will be excused only if performance would result in extreme hardship, difficulty, or unreasonable expense as a result of an unforeseen event.
+
+
+
+
+Extreme Hardship, Difficulty, or an Unreasonable Expense. The courts have experienced some diffi-culty in determining what is a “hardship” and how much additional cost is “unreasonable.” If the cost of performing the contract becomes so excessive that performance is rendered unrealistic and senseless and threatens the viability of the business itself, perfor-mance may be excused. Of course, what is a lot of money to one company may be a drop in the bucket to another. Thus, if a large multinational corporation contracts to deliver goods at a contract price and discovers that wage increases or an increase in the price of raw materials will cause it to lose millions of dollars on the deal, the courts still may not release the company from its obligation.
+
+Unforeseen Events. Courts also look to see whether the party claiming the excuse should have foreseen the likelihood of its occurrence. If the event was foreseeable, the nonperforming party will not be released from its obligations. This does not mean that the parties had to foresee the specific event that actually occurred. Rather, the parties should have foreseen that an event of this kind could occur. Thus, if a party is a sophisticated business, experienced and familiar with the risks of entering into this kind of contract, they might have difficulty in proving that they should not have foreseen a particular risk. The courts generally feel that if a particular risk was foreseeable, then the parties would have provided in their contract that performance would be excused if it occurred. If they did not provide for the excuse in the contract, then they must have intended to bear this risk.
+
+
+
+
+Exhibit 4.7
+
+
+Excuse by Failure of Presupposed Conditions
+
+
+Uniform Commercial Code
+
+
+2-615. Except so far as a seller may have assumed a greater obligation and subject to the preceding section on substituted performance:
+
+a.Delay in delivery or nondelivery (performance or nonperformance, 2003 amendments) in whole or in part by a seller who complies with paragraphs (b) and (c) is not a breach of his duty under a contract for sale if performance as agreed has been made impracticable by the occurrence of a contingency the nonoccurrence of which was a basic assumption on which the contract was made or by compliance in good faith with any applicable foreign or domestic governmental regulation or order whether or not it later proves to be invalid.
+
+b.Where the causes mentioned in paragraph (a) affect only a part of the seller’s capacity to perform, the seller must allocate production and deliveries among its customers but may at its option include regular customers not then under contract as well as its own requirements for further manufacture. The seller may so allocate in any manner which is fair and reasonable.
+
+c.The seller must notify the buyer reasonably that there will be delay or nondelivery and, when allocation is required under paragraph (b), of the estimated quota thus made available for the buyer.
+
+Uniform Commercial Code, copyright by The American Law Institute and National Conference of Commissioners on Uniform State Laws.
+Reprinted with the permission of the Permanent Editorial Board for the Uniform Commercial Code. All rights reserved.
+
+
+Copyright 2014 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
+
+Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
+
+Chapter 4: The Formation and Performance of Contracts for the Sale of Goods	113
+
+
+
+
+For the most part, parties to a contract can anticipate shortages, inflation, and even dramatic fluctuations in market prices.
+
+The CISG Exemption for Impediments Beyond Control
+
+CISG Article 79 provides that a party is not liable for a failure to perform any obligations if (1) it was due to an impediment beyond control, (2) the impediment was not reasonably foreseeable at the time the contract was concluded, (3) the impediment was unavoidable and could not be overcome, and (4) notice was given to the other party of the impediment and of its effect on the contract. Unless an impediment renders performance permanently impossible, it does not entirely excuse performance, but merely suspends it during the time that the impediment exists.
+
+Avoiding Performance Disputes: Force Majeure Clauses
+
+Courts do not like to release parties from a contract on the basis of an excuse. As a result, lawyers frequently advise their clients to incorporate a force majeure clause into their contracts.
+
+
+
+
+The term force majeure means “superior force.” It is a clause in a contract that excuses a party from failing to perform on the occurrence of one or more specified events. These clauses usually list with specificity those events that will excuse nonperfor-mance. These events might include war, blockades, fire, acts of governments, inability to obtain export licenses, acts of God, acts of public enemies, failure of transportation, quarantine restrictions, and strikes. Of course, such a clause assumes the party claiming the force majeure did not cause the event and could not control it. In practice, most force majeure clauses do not excuse a party’s nonperformance entirely, but only suspend it for the duration of the force majeure. For an example of a force majeure clause, see the Terms and Conditions of Sale, Exhibit 4.3.
+
+Another special type of force majeure clause is the government approval clause. Because government permission is often needed to transact business across national borders, many companies include a provision in their contracts stating that they are subject to obtaining government approvals or licenses. The Harriscom Svenska, AB v. Harris Corp. case illustrates the operation of a force majeure clause.
+
+
+Harriscom Svenska, AB v. Harris Corp.
+
+3 F. 3d 576 (1993) United States Court of Appeals (2d Cir.)
+
+
+BACKGROUND AND FACTS
+
+RF Systems, a division of Harris Corporation, manufac-tures radio communications products in New York. It appointed Harriscom, a Swedish firm, as its exclusive distributor to the Islamic Republic of Iran. The contract contained a force majeure clause. In 1985, the U.S. Customs Service detained a shipment of radios ordered by Harriscom and bound for Iran. The government prohibited all sales to Iran of goods it categorized as military equipment. In 1986, RF Systems negotiated a compromise under which it agreed to “voluntarily withdraw from all further sales to the Iranian market.” Harriscom brought this action for a breach of contract against RF Systems. The District Court granted judgment for the defendants on the basis of commercial impractica-bility and force majeure, and the plaintiff appealed.
+
+CARDAMONE, CIRCUIT JUDGE
+
+One of the issues before us is whether the manufac-turer’s refusal to ship the spare parts was a voluntary
+
+act on its part, subjecting it to liability to its distributor for damages for breach of contract. We think it a foregone conclusion that a government bureaucracy determined to prevent what it considers military goods from leaving this country and with the will to compel compliance with its directives is an irresistible force, one that cannot reasonably be controlled. The govern-ment in these circumstances may be likened to the wife of “Rumpole of the Bailey,” John Mortimer’s fictional barrister, who describes his wife as “she who must be obeyed.” …
+
+What appellant ignores is the overwhelming and uncontradicted evidence that the government would not allow RF Systems to continue sales to Iran. RF Systems established the affirmative defense of com-mercial impracticability because it complied in good faith with the government’s informal requirements. Further, for RF Systems to have failed to comply would have been unusually foolhardy and recalcitrant, for the government had undoubted power to compel compliance. Like commercial impracticability, a
+
+continues
+
+
+Copyright 2014 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
+
+Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
+
+114Part 2: International Sales, Credits, and the Commercial Transaction
+
+
+
+
+continued
+
+
+force majeure clause in a contract excuses nonperfor-	from  performance  on  the  grounds  of  “government
+mance when circumstances beyond the control of the	interference.”
+parties prevent performance. The contracts between	Case Questions
+these  parties  specifically  contained  force  majeure	
+	1.	On what basis did the court deny Harriscom’s
+clauses to excuse RF Systems’ performance under		
+the  present  circumstances,  namely,  “governmental		claim of breach of contract against RF Systems?
+interference.”	2.	How much “government interference” should be
+			required to invoke a force majeure clause?
+Decision.	Summary judgment for the defendant, RF	3.	Who should bear the risk in transactions with
+Systems, was affirmed. The force majeure clause in the		customers in risky locations such as Iran, the seller
+distributorship agreement excused the manufacturer		or the buyer?
+			
+
+
+
+CONCLUSION
+.......................................................................
+
+All commerce and trade require a stable and predictable legal environment in which to prosper. In recent years, the international community has agreed on a common body of international sales law, the U.N. Convention on Con-tracts for the International Sale of Goods (CISG). The CISG is important not only because it governs transac-tions for the trade in goods between parties in those na-tions that have adopted it but also because it represents internationally accepted legal principles of sales law. One of its key doctrines is that business parties should have the greatest freedom to contract possible.
+
+The CISG was drafted under the aegis of the United Nations by representatives from countries with diverse
+
+
+
+political, economic, and legal systems. Thus it draws on common law, civil law, and even socialist law principles. It has already been adopted by countries whose trade volume represents two-thirds of world trade.
+
+This chapter does not purport to cover all aspects of international sales law. For example, later we will discuss the actual mechanics of the transaction—how parties carry out contracts.
+
+The next two chapters look at how companies ship goods and exchange money and what happens if the goods are lost at sea. These chapters also examine the responsibility of carriers for transport-ing the goods and carriers’ relationships to buyers and sellers.
+
+
+
+
+Chapter Summary
+
+
+1.The U.N. Convention on Contracts for the Interna-tional Sale of Goods (CISG) was ratified by the United States in 1988 and applies to commercial contracts for the sale of goods between buyers and sellers located in different countries, both of which have ratified the CISG. The CISG is not applicable to consumer contracts, liability for injury or death caused by defective products, or the sale of services.
+
+2.Under the CISG, contracts for the sale of goods need not be in writing, although most interna-tional business transactions are.
+
+3.Evidence as to trade usages is admissible to interpret or fill in the gaps in a contract. It may include those usages derived from past dealings or
+
+
+those that the parties knew of, should have known of, or are regularly observed in their countries in their type of business.
+
+4.An acceptance may take the form of a statement or conduct by the offeree that indicates the offeree’s intention to be bound to the contract. An offeree may accept by “dispatching the goods or payment of the price, without notice to the offeror,” provided that the parties have established this as a practice or it is routinely accepted in the trade.
+
+5.In an international sales transaction governed by the CISG, a confirmation or other acceptance containing new terms that do not materially alter the terms of the offer becomes a part of the contract, unless the offeror
+
+
+
+Copyright 2014 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
+
+Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
+
+Chapter 4: The Formation and Performance of Contracts for the Sale of Goods	115
+
+
+
+
+promptly objects to the change. However, a purported acceptance that contains additional or different terms that do materially alter the terms of the offer would constitute a rejection of the offer and a counteroffer.
+
+6.Unless otherwise agreed by the parties, the seller must deliver goods that are fit for the purposes for which goods of the same description would ordinarily be used and fit for any particular purpose expressly or impliedly made known to the seller.
+
+7.Generally, a seller is not responsible for delivering goods that fail to conform to technical regulations and standards in the buyer’s country. However, the seller would be responsible if it knew the uses to which the goods would be put, if it knew of regulations in the buyer’s country affecting that use and if the buyer had relied on the seller’s knowledge and expertise.
+
+8.Unless otherwise agreed in the contract, a buyer must inspect the goods within as short a period as is practicable under the circumstances after the goods have arrived at their destination and notify the seller of any nonconformity within a reason-
+
+
+
+
+able time after it is discovered. In no case may the notice be made more than two years from the date the goods were handed over.
+
+9.The remedies outlined in the CISG include (1) avoid-ance (cancellation) of the contract; (2) the right to remedy or cure; (3) the setting of an additional time, or extension, for performance; (4) price reduction;
+
+(5) money damages; and (6) specific performance. The right to a remedy depends on whether or not the failure of performance amounted to a fundamental breach.
+
+10.A fundamental breach is one that the seller knew or should have known would result in such detriment to the buyer as substantially deprive him of what he is entitled to under the contract.
+11.Performance may be suspended or excused for an impediment beyond the control of the parties that was unavoidable and not reasonably foreseeable at the time the contract was concluded, provided notice was given to the other party. A force majeure clause excuses a party from failing to perform on the occurrence of a specified event, such as plant closings or natural disasters.
+
+
+
+Key Terms
+
+
+sales law (law of sales) 87 sale 87
+
+lex mercatoria 87
+
+unification of law 89
+
+United Nations Commission on International Trade Law (UNCITRAL) 89
+
+valid contract 93
+
+integrated contract 94
+
+parol evidence rule 94
+
+trade usages 95
+
+mutual assent 95
+
+invitations to deal 95 pro forma invoice 96 mailbox rule 98 mirror image rule 98 purchase order 101 order confirmation 101 terms and conditions 101 battle of the forms 102 fundamental breach 108 nachfrist 108
+
+price reduction 109 compensatory damages 109
+
+
+consequential damages 109 lost profits 109 liquidated damages 110 specific performance 110 anticipatory breach 111 suspend performance 111 objective impossibility 111 frustration of purpose 112 commercial impracticability
+
+112
+
+force majeure 113
+
+
+
+Questions and Case Problems
+
+1.Lucent Technologies International, Inc., subcontracted with a Saudi Arabian company, National Group, for work that Lucent was doing as part of a $4 billion telecommunications project for the Saudi government. National Group sued Lucent for damages for terminat-
+
+
+
+
+
+
+ing the contract. The damages included an amount for lost profits. The contract contained no choice of law provision and Saudi law applied. The U.S. court had to decide if recovery of lost profits was prohibited as gharar. After all, gharar prohibits gambling, or the sale
+
+
+
+Copyright 2014 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
+
+Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
+
+116Part 2: International Sales, Credits, and the Commercial Transaction
+
+
+
+
+of the “calf while still in the womb” or of “fish in the sea.” What is gharar, and how does this Islamic law principle affect calculation of damages for breach of contract under Islamic law? Would this decision have been different under the CISG? National Group for Communications and Computers, Ltd. v. Lucent Tech-nologies International, Inc., 331 F. Supp. 2d 290 (D.N.J. 2004).
+
+2.Bende had a contract to sell boots to the government of Ghana for $158,500. Bende promised to deliver the boots “as soon as possible.” Bende then contracted with Kiffe, who agreed to make the boots in Korea and to deliver them in Ghana within sixty to ninety days at a price of $95,000. The contract contained no force majeure clause. Kiffe knew that Bende was going to resell the boots. Kiffe failed to deliver the boots on the agreed date because a train carrying the boots had derailed in Nebraska. Bende brought this action against Kiffe for breach of contract. Bende and Sons, Inc. v. Crown Recreation and Kiffe Products, 548 F. Supp. 1018 (E.D.N.Y. 1982).
+
+a.Kiffe claimed that the contract had been rendered commercially impracticable and that performance was excused. Do you agree? Why or why not? Was the train wreck foreseeable or unforeseeable?
+
+b.What could Kiffe have done in negotiating the contract to protect itself from this contingency?
+c.If Bende would have incurred an additional $18,815 in freight charges and miscellaneous costs had the breach not occurred, what would be its measure of damages? Is Bende entitled to lost profits? How are damages measured in a case such as this?
+d.In this case, the risk of damage or loss to the boots while in transit remained with the seller, Kiffe. How would the case differ if the parties had agreed that Kiffe would merely ship (not deliver) the goods by a certain date and that Kiffe would bear the risk of loss during transit? (You may have to wait until the next chapter to answer this question.)
+
+3.Rotorex, a New York corporation, agreed to sell air compressors to Delchi, an Italian company. The compressors were for use in producing Ariele air conditioners. The first shipment reached Delchi, and Delchi paid $188,000. In preparation, Delchi had spent 39 million lire for special tooling, and 27 million lire for special insulation and tubing for use in making Arieles. Delchi expended 18 million lire in shipping and customs duties. Delchi then paid $130,000 to Rotorex for a second shipment. While the second shipment was en route, Delchi discovered that the first lot was non-
+
+
+
+conforming. It rejected the compressors and canceled the contract. Delchi spent several million lire to replace problem grommets, inspect, repair, and retest the compressors in an effort to make them usable. During this time, Delchi’s assembly line shut down, incurring unproductive assembly worker wages. Delchi was able to obtain some substitute compressors from other sources in time for the selling season, which it had to adapt for Ariele units at additional expense. It arranged to have a shipment of Sanyo compressors, which it has previously ordered, sent to it by air freight so that it could fill some orders. Delchi was also unable to fill some orders, amounting to millions of lire in lost profit. Delchi brought this action for damages. What expenses should Delchi be allowed to recover from Rotorex as a result of its delivery of nonconforming and why? How should the court measure each element of damages? Delchi Carrier, SpA v. Rotorex Corp., 1994 WL 495787 (N.D.N.Y. 1994).
+
+4.Your company, Acme Widgets, sells its widgets worldwide. Acme has a contract for 250,000 widgets to be shipped to the Czech Republic. The price stated in the offer and acceptance is $1 per widget, C.I.F. Prague. During the production of the widgets, the price of one component increases 250 percent due to a shortage. In addition, these widgets are due for shipment on June 15 and arrival in Prague no later than July 1. On June 15, a stevedores’ strike begins, which lasts for 60 days. Are either or both of these factors—the material price increase and the stevedores’ strike—an excuse for Acme’s nonperformance? What legal theory might Acme use under U.S. common law as an excuse? Under the CISG?
+
+5.A German seller sued a Russian buyer because the buyer failed to pay for the equipment supplied to the buyer pursuant to their contract. The buyer acknowledged it had received the goods but said its nonpayment should be excused because it was due to the failure of the bank responsible for the buyer’s foreign currency transactions to make payment to the seller. The buyer claimed the bank’s lack of the available currency resources should be regarded as a force majeure, discharging it from liability for nonpayment to the buyer. The contract did include a force majeure clause, but it did not refer to the buyer’s lack of foreign currency. Do you agree with the buyer? Tribunal of International Commercial Arbitration at the Russian Federation Chamber of Commerce and Industry 17 October 1995. (See case law on UNICTRAL texts Abstract No. 142; reproduced with permission on Pace University’s CISG Website.)
+
+6.A U.S. software manufacturer sold software for processing credit card charges to a U.S. limited liability company that
+
+
+Copyright 2014 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
+
+Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
+
+Chapter 4: The Formation and Performance of Contracts for the Sale of Goods	117
+
+
+
+
+was a wholly-owned subsidiary of a German corporation. The software did not function properly and generated erroneous reports of charges. The U.S. buyer and its German parent sued the software manufacturer for breach of contract. The plaintiffs asserted that the CISG was applicable to the transaction as the head of the German parent company signed the purchase and sales contract. The software manufacturer alleged that the CISG was inapplicable as the contract was addressed to the U.S. limited liability company, and the purchase price was paid with a check tendered by the U.S. purchaser. Is the CISG applicable to this transaction? Why or why not? American Mint LLC v. GOSoftware, Inc., 2006 U.S. Dist. LEXIS 1569 (M.D. Pa. 2006).
+
+7.A Canadian seller sued a U.S. purchaser for the purchaser’s refusal to pay for concrete light poles utilized in a construction project in Florida. The purchaser counterclaimed that it had sustained damages because the poles had not been delivered on time. The seller admitted that it had problems with production and was unable to ship a truck load of poles every two weeks as it had done in the past. Nevertheless, the purchaser accepted the poles that had been shipped. Applying the CISG, the court interpreted Article 39 to encompass not only nonconforming goods but also goods that were not shipped in a timely manner pursuant to the contract. Thus, the light poles could be deemed nonconforming based not on their perfor-mance but rather on their untimely delivery. As the purchaser had given notice of the untimely delivery of the light poles within two years from their delivery, it was free to pursue its counterclaim. Do you agree with this result? Is the court’s interpretation of Article 39 too expansive? Was Article 39 intended to include untimely delivery as well as nonconforming goods? Sky Cast, Inc. v. Global Direct Distribution, LLC, 2008 U.S. Dist. LEXIS 21121 (E.D. Ky. 2008).
+
+
+
+
+8.A U.S. purchaser sued a German limited partnership alleging that the partnership breached a contract to deliver 15,000-18,000 metric tons of used Russian railroad rail to the U.S. company for recycling into other products. The rail was to be shipped from the port in St. Petersburg, Russia, travel by sea for four weeks, and be delivered to the purchaser at its factory in Illinois by December 31, 2002. The seller failed to meet this deadline allegedly due to the unexpected early freezing of the St. Petersburg port on approximately December 1, 2002. The seller thus alleged that its performance was subject to force majeure. In denying the purchaser’s motion for summary judgment, the court acknowledged that the contract was governed by the CISG and, specifically, Article 79 relating to force majeure. It also noted the absence of U.S. case law interpreting Article 79. However, instead of applying foreign case law or scholarly commentary to the interpretation of Article 79, the court simply applied similar provisions contained within § 2-615 of the UCC. Applying the UCC, the court concluded that the freezing of the port rendered the seller’s performance impracticable, and the premature freezing was unforeseeable. The court’s opinion has been condemned as “the worst CISG decision in twenty-five years” due to its disregard of the international character of the CISG and the need for uniformity in international trade. It has also been cited as an example of the “homeward trend” in improperly utilizing analogous domestic law to interpret the CISG. What is meant by “homeward trend”? Do you agree with the application of this trend and result in this case? Compare the opinion with that in Chicago Prime Packers Inc. issued by the same court in the same year. What are the possible explanations for the divergence in sources utilized to interpret the CISG? Raw Materials, Inc. v. Manfred Forberich GMBH & Co., 2004 U.S. Dist. LEXIS 12510 (N.D. Ill. 2004).
+
+
+
+Managerial Implications
+
+You are the vice president of sales for DownPillow International, Inc., a U.S. manufacturer of bed pillows. The raw materials needed for making pillows are all sourced from suppliers overseas. Your firm purchases feathers from exporters in China who maintain large flocks of geese and ducks for breeding and cotton ticking and other textiles from mills in Germany. Every year you show your products at the International Bed Show in New York. This year, a delegation of Japanese buyers,
+
+
+
+
+
+representing several well-known Tokyo stores, showed interest in your best quality pillows. The president of your firm expressed interest in these contacts because although Americans use the same pillow for long periods of time, the Japanese are fastidious about their bedding. You followed up with samples, product, and pricing informa-tion. After several discussions and months of correspon-dence, you now expect to receive your first overseas orders.
+
+
+Copyright 2014 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
+
+Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
+
+118Part 2: International Sales, Credits, and the Commercial Transaction
+
+
+
+
+
+You are to meet with legal counsel next week to discuss this opportunity. What questions might you want to ask about entering a sales contract with a Japanese buyer? If a buyer shows interest in purchasing large quantities, should you consider a visit to the buyer’s Tokyo office? What would you accomplish? Should your attorney conduct negotiations there for you? If you and your buyer agree to put your agreement in writing, what terms might the document contain? Your customers want assurances that their pillows will be made of the finest white goose down, with less than 10 percent feathers. What assurance will you be able to give them regarding product quality and specifications? What factors might influence the selection of a choice of law clause? Do you think your lawyer will insist on a force majeure clause? Can you suggest some of the things DownPillow might want in its clause?
+
+If you anticipate having several accounts in Japan, and each of them will be sending in purchase orders for each order, will you need a confirmation form? Will your attorney recommend that you develop a standard form to use for confirming all export orders? How will this form differ from the form you use for domestic shipments? What kind of provisions should it have?
+
+
+
+
+
+How might negotiating your supply contracts with the Chinese differ from dealing with German textile mills? You have some concern about making sure that the quality of the down from China remains consistent. What will assure you that you will receive goose down and not duck down? What other precautions should you take? The German mill wants you to mail in or fax your orders. Your lawyer recommends that certain terms be put into your purchase order form. What might they be? Your purchase order states that the seller is liable for consequential damages for late shipment. The mill’s confirmation states that “the liability of the seller is limited to the replacement of returned goods.” In the event of a dispute, which will prevail under U.S. law? Under German law? Under the CISG?
+
+Your contract with the Japanese buyer specifies that the CISG is to govern the transaction. Your pillows arrive in Japan and the buyer discovers that they contain only 13 ounces of down instead of the full 16 ounces of down as promised. You admit the error and want to resolve the problem. However, the buyer has just been offered the same quality pillow at considerably lower prices from a firm in Taiwan and wants to cancel the contract. Discuss the rights of each of the parties under the CISG.
+
+
+
+
+
+Ethical Considerations
+
+
+Most commentators agree that nonpecuniary injuries resulting from breach of a sales contract (such as reputational harm, injury to goodwill, pain and suffering, and emotional distress) cannot be compensated under the damages provision of the CISG. However, other efforts to unify or harmonize contract law on an international or regional level have considered allowing monetary compen-sation for nonpecuniary injuries. This has caused a minority of commentators to advocate a similar interpretation of the CISG on the basis that some breaches of contract cannot be adequately addressed if only economic losses can be awarded as damages. Such a circumstance may arise in cases involving “ethically tainted” goods, such as those which are the product of child or forced labor or are produced under circumstances that pose grave health hazards to workers.
+
+
+In an article published in the Pace International Law Review in 2007, noted scholar Peter Schlechtriem denounces any such interpretation of the CISG on several grounds. Schlechtriem contends that the CISG was not the proper instrument to promote moral convictions. Rather, adequate remedies addressing such convictions may exist in other areas of international law as well as in domestic law (such as causes of action for fraud and misrepresentation and mandatory production and manufacturing standards). Parties could also establish standards with respect to the goods for which they have contracted in their agreements, the violation of which gives rise to a cause of action for breach of contract. Second, there are few if any shared ethical values across and within populations. Similar problems exist with respect to product lines. For example, one may object to
+
+
+
+
+
+
+
+Copyright 2014 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
+
+Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
+
+Chapter 4: The Formation and Performance of Contracts for the Sale of Goods	119
+
+
+
+
+the animal testing in the development of cosmetics but not in the development of life- saving pharmaceuticals. Third, any ethics-based damages award pursuant to the CISG would circumvent the burden of proof for pecuniary losses “by reverting to the ‘penal’ sanction of non-pecuniary damages, which could result in extremely diverging awards around the globe and, in some instances, in ‘hometown justice.’ ” Finally, any such interpretation
+
+
+
+
+could impose one party’s social, religious, and ideological beliefs on other parties. The consequence of such interpretation would be irreparable harm to the CISG’s neutrality, objectivity, and uniformity on which its worldwide acceptance rests.
+
+Do you agree with Schlechtriem? Is the CISG “ethically challenged”? Is the CISG the proper tool by which to address trade in “ethically tainted” goods? Why or why not?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copyright 2014 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s).
+
+Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
