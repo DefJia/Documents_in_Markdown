@@ -232,13 +232,13 @@
   - Root is the base form of a word that cannot be further analyzed without the total loss of identity (that is to say , the root is the part of the word left when all the affixes are removed )
   - Stem is any morpheme or combination of morphemes to which an inflectional affix can be added (that is to say , stem is the part of the word left when inflectional affixes are removed )
   - Affix : the collective term for the types of morphemes that can be used only when added to another morpheme 
-  - **All affix is bound ---free morpheme 不存在 affix</span>
+  - All affix is bound ---free morpheme 不存在 affix
   - Affixes can be divided into inflectional affix and derivational affix 
   - Affixes can also be divided into prefix, infix and suffix
   - Circumfix
 - Free morphemes 
   - Those morphemes which can occur independent of other morphemes, or a morpheme that can be a word by itself 
-  - **一个单词里必有一个 freemorpheme</span>
+  - 一个单词里必有一个 freemorpheme
 - Bound morphemes
   - Those which must appear with at least another morpheme 
   - Derivational morphemes 
