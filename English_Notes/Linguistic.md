@@ -375,6 +375,68 @@
 - Concord(一致性), also called agreement, is a type of grammatical relationship between two or more elements in a sentence, in which both or all elements show a particular feature. Concord may affect the case, gender, number, and person.
 
 ##Semantics (语义学)
+
+#### Definition of semantics
+
+- Semantics is the study of meaning. More specifically, semantics is the study of the meaning of linguistic units, words and sentences in particular.
+- Semantics remains the least known area in linguistics compared with other branches of linguistics, for example, phonetics, phonology, morphology and syntax.
+
+#### Meaning of “meaning”
+
+- 7 Types of Meaning by Leech
+  - Conceptual meaning
+  - Thematic meaning
+  - Associative meaning
+    - Connotative meaning
+    - Social meaning
+    - Affective meaning
+    - Reflected meaning
+    - Collocative meaning
+
+#### Referential theory
+
+- The referential theory refers to the theory of meaning which relates the meaning of a word to the thing it refers to, or it stands for.
+
+- Problems 局限性
+
+  - There is something behind the concrete thing we can see with our eyes.
+
+  - There are many words that do not have reference.  
+
+    E.g. dinosaur, ghost, God
+
+#### Semantic relations
+
+- Synonymy - the sameness relation
+  - all context dependent. 
+- Antonymy - oppositeness relation
+  - gradable antonymy
+  - complementary antonymy
+  - converse antonymy
+- hyponymy - a matter of class membership
+  - Superordinate
+    - may be a superordinate to itself
+    - may be missing
+  - hyponym
+    - may also be missing
+  - co-hyponyms
+
+#### Polysemy and homophony
+
+- Polysemy refers to a word that has two or more related meanings.
+- Homophony （同音异义）
+  - A single form has two or more entirely distinct meanings
+  - need not have identical spellings
+
+#### Componential analysis
+
+- Definetion: the analysis of lexical items in terms of semantic features or semantic components.
+- Explain sense relations between words or sentences
+- Problems
+  - Polysemous words
+  - Some semantic components are seen as binary taxonomies
+  - Words whose semantic components are difficult to ascertain
+
 ##Pragmatics (语用学) 
 ##Language, culture and society
 ##Schools of modern linguistics 
