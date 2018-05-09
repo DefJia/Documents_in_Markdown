@@ -746,3 +746,17 @@ Moral right
 1. object to distortion, mutilation, or modification 
 2. be recognized as the author 
 3. control public access to the work
+
+### 神秘题
+
+#### 1. Difference Between Common Law and Civil Law?
+
+The main difference between the two systems is that in common law countries, case law — in the form of published judicial opinions — is of primary importance, whereas in civil law systems, codified statutes predominate. But these divisions are not as clear-cut as they might seem. In fact, many countries use a mix of features from common and civil law systems. Understanding the differences between these systems first requires an understanding of their historical underpinnings.
+
+#### 2. Advantages and Disadvantages of Arbitration
+
+[LINK](http://www.allenandallen.com/blog/arbitration-advantages-and-disadvantages.html)
+
+#### 3. Advantages and Disadvantages of Corporations
+
+[LINK](https://www.justia.com/business-formation/docs/corporation-advantages-disadvantages/)

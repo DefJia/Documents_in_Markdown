@@ -329,19 +329,51 @@
   - Choice relation 
 - Relation of co-occurrence (共现关系）
 ####Immediate constituent (IC) analysis 
-- IC analysis is the Ana,uses of a sentence in terms of its immediate constituents---world groups (or phrases), which ate in turn analyzed into the immediate condtituent soft their own , and the process goes on until the ultimate constituents ate reached 
+- IC analysis is the Analysis of a sentence in terms of its immediate constituents---word groups (or phrases), which ate in turn analyzed into the immediate condtituent soft their own , and the process goes on until the ultimate constituents ate reached.
 - Tests for constituenthood
+  - Sustitution test
+  - Movement test
+  - Coordination test
 - Tree diagram/ bracketing 
 ####Endometric and exocentric constructions 
 
-> Eg: The boy smiled.
->
-> $[IP, [spec(the boy), I', [I(-ed), VP(smile)]]]$
->
-> 
+- Endocentric construction 
+
+  - is one whose distribution is **functionally equivalent** to that of one or more of its constituents.
+
+  - NP, VP, and AdjP
+
+  - according to the relation between constituents
+
+    - coordination (并列式)
+
+      > two boys and two girls.
+
+    - subordination (从属式)
+
+      > two tall handsome boys.
+
+- Exocentric construction
+
+  - a group of syntactic related words where none of the words is functionally equivalent to the group as a whole, that is, there is no head or center in the construction.
+
+    > Eg: The boy smiled.
+    >
+    > $[IP, [spec(the boy), I', [I(-ed), VP(smile)]]]$
 
 ####Syntactic function
+
+- Subject - nouns in the nominative case.
+- Predicate refers to a major constituent of sentence structure in a binary analysis in which all obligatory constituents other than the subject are considered together.
+- Object is sometimes called secondary subject. 
+
 ####Category 
+
+- Number: singular, plural, dual, trial
+- Gender: masculine, feminine, neuter
+- Case: nominative (主格）, accusative（宾格）, genitive（属格）, dative（与格）
+- Concord(一致性), also called agreement, is a type of grammatical relationship between two or more elements in a sentence, in which both or all elements show a particular feature. Concord may affect the case, gender, number, and person.
+
 ##Semantics (语义学)
 ##Pragmatics (语用学) 
 ##Language, culture and society
