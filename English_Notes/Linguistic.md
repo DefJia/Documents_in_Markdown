@@ -4,13 +4,13 @@
 
 
 
-##Introducing language 
+## Introducing language 
 
-####What is linguistics 
+#### What is linguistics 
 - Linguistics is the science of language, or it is the scientific study of language
-####Significance 
+#### Significance 
 - Linguistics can help us learn more about language and to have a deep understanding of how languages works
-####What is language 
+#### What is language 
 - Symbol
 - Vocal
 - Arbitrary
@@ -18,7 +18,7 @@
 - Language is a system of arbitrary vocal symbols used for human communication 
 - What makes human language different from animal language?
   - No matter how eloquently a dog may bark,he cannot tell you that his parents were poor but honest 
-####Design features of language 
+#### Design features of language 
 - Arbitrariness
   - There is no logical connection or innate relationship between forms of linguistic signs and their meaning.
       - The relationship between speech sounds and the meanings they represent is, for the most part, arbitrary 
@@ -33,7 +33,7 @@
 - Displacement 
   - Language can refer to contexts removed from the immediate situations of the speaker 
   - Displace meant means that human languages enable their languages enable their users to symbolize objects, events and concepts which are not present ( in time and space ) at the moment of communication 
-####Functions of language
+#### Functions of language
 - Jakobson
   - Adresser - emotive
   - Addresses - conative
@@ -63,8 +63,8 @@
   - Phatic function
   - Recreational function
   - Metalingual function
-##Introducing linguistics 
-####Definition of linguistics
+## Introducing linguistics 
+#### Definition of linguistics
 - Linguistics can be defined as the scientific study of language
 - Criteria for evaluation of language study
   - Exhaustiveness
@@ -76,19 +76,19 @@
       - Other things being equal, a short statement or analysis is preferred to a longer or more complex one
   - Objective
       - A linguist should be as objective as possible in his description and analysis of data and cannot allow prejudice to influence his conclusion 
-####Main branches of linguistics
+#### Main branches of linguistics
 - Phonetcis
 - Phonology
 - Morphology
 - Syntax
 - Semantics
 - Pragmatics
-####Macrolinguistics
+#### Macrolinguistics
 - Psycholingguistics
 - Sociolinguistics 
 - Anthropological linguistics
 - Computational linguistics
-####Important distinctions in linguistics
+#### Important distinctions in linguistics
 - Descriptive/Prescriptive
   - A linguistic study is descriptive if it describes and analyses the fact observed 
   - It is prescriptive if it tries the lay down rules for the "correct" use of language 
@@ -115,21 +115,21 @@
 - Competence/Performance
   - Competence is the ideal language user's knowledge of the rules of his language
   - Performance is the actual relaxation of this knowledge in utterances 
-##Phonetics
-####Three branches of phonetics
+## Phonetics
+#### Three branches of phonetics
 - Articulately phonetics
   - Articulatory phonetics studies the production of speech sounds 
 - Acoustic phonetics
   - Acoustic phonetics studies the physical properties of speech sounds
 - Auditory phonetics
   - Auditory or perceptual phonetics studies the perception of speech sounds or how speech sounds are received or perceived by listeners 
-####Speech organs
+#### Speech organs
 - Three cavities 
   - Oral cavity 
   - Nasal cavity
   - Pharyngeal cavity
-####International phenolic alphabet
-####Classification of consonants
+#### International phenolic alphabet
+#### Classification of consonants
 - Manner of articulation 
   - Stop/plosive
   - Nasal 
@@ -146,21 +146,21 @@
   - Palatal
   - Velar 
   - Glottal
-####Classification of vowels 
+#### Classification of vowels 
 - Criteria
   - The height of tongue raising 
   - The part of tongue that is raised :front ,central or back
   - The length of tenseness of the vowel
   - Lips rounding (rounded vs. unfounded )
-##Phonology
-####Definition of phonology
+## Phonology
+#### Definition of phonology
 - Phenology is the study of the sound patterns and sound systems of languages
 - Its primary aim is to discover the principle that govern how sounds are organized in languages,and to explain the variations that might occur 
-####Phonetics and phonology
+#### Phonetics and phonology
 - The distinction between phonetics and phonology 
   - Phonetics studies how speech sounds are made, transmitted and received  VS. phonology studies the sound patterns and sound system of languages 
   - Phonetics is the study of all possible speech sounds VS. phonology studies hoe speaker of a language systematically use a selection of these sounds in order to express meaning 
-####Basic unit of phonology :phoneme 
+#### Basic unit of phonology :phoneme 
 - A sound which is capable of distinguishing one word from another in a given language is a phoneme 
 - Free variants 
   - If two sounds occurring in the same environment do not contrast, that is, the substitution of one for the other does not produce a different Orr form,but merely a different pronunciation of the same word, then the two sounds are in free variation 
@@ -169,16 +169,16 @@
       - The allophones for a phoneme must be phonetically similar
       - Complementary distribution 
           - When two sounds never occur in the same environment, they are said to be in complementary distribution 
-####Segments in contrast 
+#### Segments in contrast 
 - All speakers know which segments of their language contrast and which do not. Segments are said to contrast in a particular language when their presence alone may result in a change of meaning 
 - Some knowledge of segmental contrasts is fundamental to knowing any language, the first step in an analysis of the phonology of a language is to establish which sounds in that language are in contrast with each other 
 - In order to establish contrasts, it is necessary to examine the distribution of sounds in words and to compare word meanings
 - The most straightforward way to accomplish this is by way of minimal pair test
 - Minimal pairs 
   - A minimal pair consists of two forms with distinct meanings that differ by only one segment in the same position
-####Distinctive features 
+#### Distinctive features 
 - A particular characteristic high distinguishes one distinctive sound unit of a language from another or one group of sounds from another group
-####Syllable
+#### Syllable
 - Stress
   - Stress refers to the degree of force used in producing a syllable 
   - Stress is a relative notion 
@@ -191,7 +191,7 @@
   - Chinese syllabic structure :(c) v (c) 
   - Open syllable 
   - Closed syllable 
-####Phonological processes 
+#### Phonological processes 
 - Three aspects of a phonological process 
   - A set of sounds that will undergo the process 
   - A set of sounds produced by the process
@@ -211,10 +211,10 @@
   - A process by shiv voiced sounds become voiceless 
 - The rule ordering 
   - Elsewhere condition : the more specific rule applies first 
-##Morphology(I)
-####What is morphology 
+## Morphology(I)
+#### What is morphology 
 - Morphology studies the internal structure of words and the rules by which words are formed 
-####What is morpheme, allomorph 
+#### What is morpheme, allomorph 
 - Morpheme 
   - The minimal (smallest )meaningful unit is known as morpheme 
   - **The decomposition of words into morphemes illustrates one of the fundamental properties of human language --- (discreteness )</span>
@@ -227,7 +227,7 @@
       - Morphs are the actual forms used to realize morlnemes
   - Allomorph （语素变体）
       - Concretely realized variants of the same morpheme are allomorphs
-####How can morphemes be classified 
+#### How can morphemes be classified 
 - Root , stem and affix
   - Root is the base form of a word that cannot be further analyzed without the total loss of identity (that is to say , the root is the part of the word left when all the affixes are removed )
   - Stem is any morpheme or combination of morphemes to which an inflectional affix can be added (that is to say , stem is the part of the word left when inflectional affixes are removed )
@@ -257,7 +257,7 @@
           - Inflections related to English nouns 
           - Inflections related to English verbs
           - Inflections related to English adjectives 
-####What is morphonemics 
+#### What is morphonemics 
 - Morphophonemics(形态语音学）
   - The analysis and classification of the phonological factors affecting three apperanve of morphemes
   - It studies the interrelationships between phonology and morphology
@@ -266,8 +266,8 @@
   - The form or shape of morphemes may be conditioned by phonological factors
 - Dissimulation (异化）
   - Dissimulation referres to the influence exercised by one sound segment upon the articulation of another , so that the sounds become less alike , or different 
-##Morphology (II)
-####Definition of word 
+## Morphology (II)
+#### Definition of word 
 - A grammatical unit between morpheme and word group 
   - Morpheme&lt;word &lt;word group&lt;phrase &lt;clause &lt;sentence 
 - A physically definable unit 
@@ -282,7 +282,7 @@
 - The common factor underlying a set of forms
   - To avoid the ambiguity of "word" , lexeme is postulated, which is a word in an abstract sense
       - Eat, ears, ate ,eaten , eating these five word forms have one lexeme "eat"
-####Classification of words
+#### Classification of words
 - Function words and content words
   - Function words
       - Function words : words that express grammatical meanings 
@@ -301,7 +301,7 @@
       - Open class words refer to those words whose membership is in principle infinite or unlimited 
       - Nouns, verbs, adjectives , and many adverbs
       - Content words are open class words
-####Formation of words
+#### Formation of words
 - Compounding 
 - Affixation / derivation 
 - Invention 
@@ -310,10 +310,10 @@
   - Abbreviation 缩写法/clipping
   - Acronym / initiation 首字母缩略词
   - Back-formation 逆构法
-##Syntax
-####Definition of syntax 
+## Syntax
+#### Definition of syntax 
 - The study of the rules governing how words are combined to be form sentences in a language , or simply, the study of the formation of sentences 
-####Syntactic relations
+#### Syntactic relations
 - Positional relation(word order)
   - Definition : it refers to the sequential arrangement of words in a language 
   - C-selection ( categorical selection )
@@ -328,14 +328,14 @@
   - Vertical relation
   - Choice relation 
 - Relation of co-occurrence (共现关系）
-####Immediate constituent (IC) analysis 
+#### Immediate constituent (IC) analysis 
 - IC analysis is the Analysis of a sentence in terms of its immediate constituents---word groups (or phrases), which ate in turn analyzed into the immediate condtituent soft their own , and the process goes on until the ultimate constituents ate reached.
 - Tests for constituenthood
   - Sustitution test
   - Movement test
   - Coordination test
 - Tree diagram/ bracketing 
-####Endometric and exocentric constructions 
+#### Endometric and exocentric constructions 
 
 - Endocentric construction 
 
@@ -361,37 +361,64 @@
     >
     > $[IP, [spec(the boy), I', [I(-ed), VP(smile)]]]$
 
-####Syntactic function
+#### Syntactic function
 
 - Subject - nouns in the nominative case.
 - Predicate refers to a major constituent of sentence structure in a binary analysis in which all obligatory constituents other than the subject are considered together.
 - Object is sometimes called secondary subject. 
 
-####Category 
+#### Category 
 
 - Number: singular, plural, dual, trial
 - Gender: masculine, feminine, neuter
 - Case: nominative (主格）, accusative（宾格）, genitive（属格）, dative（与格）
 - Concord(一致性), also called agreement, is a type of grammatical relationship between two or more elements in a sentence, in which both or all elements show a particular feature. Concord may affect the case, gender, number, and person.
 
-##Semantics (语义学)
+## Semantics (语义学)
 
 #### Definition of semantics
 
 - Semantics is the study of meaning. More specifically, semantics is the study of the meaning of linguistic units, words and sentences in particular.
+
 - Semantics remains the least known area in linguistics compared with other branches of linguistics, for example, phonetics, phonology, morphology and syntax.
+
+- Bloomfield : The statement of meanings is therefore the weak point in language study, and sill remain so until human knowledge advances very far beyond its present state.
+
+- Roman Jakobson
+
+  > Language without meaning is meaningless
 
 #### Meaning of “meaning”
 
 - 7 Types of Meaning by Leech
   - Conceptual meaning
+
+    Logical ,cognitive ,or denotative content.
+
   - Thematic meaning
+
+    What is communicated by the way in which the message is organized in terms of order and emphasis.
+
   - Associative meaning
     - Connotative meaning
+
+      What is communicated by virtue of what language refers to.
+
     - Social meaning
+
+      What is communicated of the social circumstances of language use.
+
     - Affective meaning
+
+      What is communicated of the feelings and attitudes of the speaker / writer.
+
     - Reflected meaning
+
+      What is communicated through association with another sense of the same expression.
+
     - Collocative meaning
+
+      What is communicated through association with words which tend to occur in the environment of another word.
 
 #### Referential theory
 
@@ -407,12 +434,26 @@
 
 #### Semantic relations
 
+​	paraphrase, Entailment, Contradiction 
+
 - Synonymy - the sameness relation
-  - all context dependent. 
+  - all context dependent
+
+  - differ in style
+
+    > E.g. Buy-Purchase
+
+  - differ in connotations
+
+    > E.g. Thrifty-stingy
+
+  - differences are only dialectal
+
+    > E.g. Autumn-fall, underground-subway
 - Antonymy - oppositeness relation
-  - gradable antonymy
-  - complementary antonymy
-  - converse antonymy
+  - gradable antonymy 程度反义
+  - complementary antonymy 互补反义
+  - converse antonymy 反向反义
 - hyponymy - a matter of class membership
   - Superordinate
     - may be a superordinate to itself
@@ -437,6 +478,6 @@
   - Some semantic components are seen as binary taxonomies
   - Words whose semantic components are difficult to ascertain
 
-##Pragmatics (语用学) 
-##Language, culture and society
-##Schools of modern linguistics 
+## Pragmatics (语用学) 
+## Language, culture and society
+## Schools of modern linguistics 
