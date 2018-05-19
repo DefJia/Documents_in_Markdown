@@ -1,5 +1,19 @@
 # Révision de Français
 
+[TOC]
+
+## Temps
+
+|      Français       |   中文   |
+| :-----------------: | :----: |
+|       Présent       |  现在时   |
+|      Imparfait      | 未完成过去时 |
+|    Passé composé    | 复合过去时  |
+|    Futur simple     | 简单过去式  |
+| Futur dans le passé | 过去将来时  |
+
+
+
 ## Les verbes importants
 
 #### 助动词 (Auxiliaires)
