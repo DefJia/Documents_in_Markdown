@@ -2,7 +2,7 @@
 
 [TOC]
 
-​	在法语的直陈式中，比较常见的共有5种时态，其他的暂时还没提到。在这里就这五种时态做一些简单的介绍。
+​	在法语的直陈式中，比较常见的共有n种时态，其他的暂时还没提到。在这里就这五种时态做一些简单的介绍。
 
 ## 复合过去时(Indicatif Passé Composé)
 
@@ -108,7 +108,34 @@ J'ira à la Place République demain matin.
 
 明天早晨，我要去共和广场。
 
+### 构成
+
+1. 第一二组动词在原形后直接加以下词根：
+
+|  je  |  tu  | il/elle | nous | vous | ils/elles |
+| :--: | :--: | :-----: | :--: | :--: | :-------: |
+| -ai  | -as  |   -a    | -ons | -ez  | -**o**nt  |
+
+2. 以-re结尾的动词，去掉词尾的e，然后加上述词尾。
+
+3. 大多数第三组动词，词根不规则变化，但词尾仍然和1中相同
+
+   |  avoir  |    j'aurai     | recevoir | je recevrai |
+   | :-----: | :------------: | :------: | :---------: |
+   |  être   |    je serai    |  savoir  |  je saurai  |
+   |  aller  |     j'irai     |  venir   | je viendrai |
+   |  faire  |    je ferai    |   voir   |  je verrai  |
+   | devior  |   je devrai    | vouloir  | je voudrai  |
+   | courir  | je cou**rr**ai | falloir  |  il faudra  |
+   | pouvoir | je pou**rr**ai | pleuvoir | il pleuvra  |
+
+   规律：
+
+   - 大多数结尾的voir都转化为vr+后缀。
+
 ## 先将来时(Indicatif Future Antérieur)
+
+先将来时，条件将来时
 
 ## 最近将来时(Indicatif Future proche)
 
@@ -119,6 +146,8 @@ Je vais aller à la boulangerie en face de la rue.
 我马上要去街对面的面包店。
 
 ## 过去将来时(Futur Dans le Passé)
+
+
 
 ## 参考资料
 
