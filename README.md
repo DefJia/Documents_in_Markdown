@@ -17,9 +17,9 @@ A pile of documents written in markdown, most of which are notes of my learning 
 
 - Lab reports
 
-  ​	2018年上半年选的一门实验课，主要是对windows系统安全和常用命令的操作实验，内含四篇报告。
+  ​	2018年上半年选的一门实验课，主要是windows系统安全和常用命令的操作实验，内含四篇报告。
 
 
 ------
 
-Copyright © Defjia. All rights reserved.
+Copyright © [Defjia](mailto:iam@defjia.top). All rights reserved.
