@@ -15,25 +15,25 @@
 - Vocal
 - Arbitrary
 - Human communication 
-- Language is a system of arbitrary vocal symbols used for human communication 
+- **Language is a system of arbitrary vocal symbols used for human communication **
 - What makes human language different from animal language?
   - No matter how eloquently a dog may bark,he cannot tell you that his parents were poor but honest 
 #### Design features of language 
-- Arbitrariness
+- **Arbitrariness**
   - There is no logical connection or innate relationship between forms of linguistic signs and their meaning.
       - The relationship between speech sounds and the meanings they represent is, for the most part, arbitrary 
       - What's in a name? That which we call a rose by any other name would smell as sweet.
-- Duality
+- **Duality**
   - Language has two levels of structures: sound and meaning 
   - The sounds can combine with one another to form units that have meanings
-- Creativity/productivity 
+- **Creativity/productivity **
   - Knowing s language means being able to produce new sentences never spoken before and to understand sentences never heard before.
   - This ability is a part of the creative aspect of language use
   - The creativity of language comes from duality and recursiveneess 
-- Displacement 
+- **Displacement **
   - Language can refer to contexts removed from the immediate situations of the speaker 
   - Displace meant means that human languages enable their languages enable their users to symbolize objects, events and concepts which are not present ( in time and space ) at the moment of communication 
-#### Functions of language
+#### Functions of language+++++++
 - Jakobson
   - Adresser - emotive
   - Addresses - conative
@@ -41,9 +41,9 @@
   - Message - poetic
   - Code - metalingual
   - Contact - phatic 
-- Halliday
+- Halliday++
   - Ideational function 
-      - Language is used to organize understand, and express our experience of the world and f our own consciousness
+      - Language is used to organize understand, and express our experience of the world and for our own consciousness
       - We can say that ideational function can be used to construct a model of experience and logical relations
       - Subfunctions 
           - Experimental function
@@ -76,19 +76,22 @@
       - Other things being equal, a short statement or analysis is preferred to a longer or more complex one
   - Objective
       - A linguist should be as objective as possible in his description and analysis of data and cannot allow prejudice to influence his conclusion 
-#### Main branches of linguistics
+#### Main branches of linguistics++++++++
+
+定义
+
 - Phonetcis
 - Phonology
 - Morphology
 - Syntax
 - Semantics
 - Pragmatics
-#### Macrolinguistics
+#### Macrolinguistics++++++++
 - Psycholingguistics
-- Sociolinguistics 
+- Social linguistics 
 - Anthropological linguistics
 - Computational linguistics
-#### Important distinctions in linguistics
+#### Important distinctions in linguistics++++++++
 - Descriptive/Prescriptive
   - A linguistic study is descriptive if it describes and analyses the fact observed 
   - It is prescriptive if it tries the lay down rules for the "correct" use of language 
@@ -113,10 +116,12 @@
       - Secondly,Langue is not actually spoken by anyone; a Parole is always a naturally occurring event
       - Thirdly, Langue is relatively stable and systematic; Parolr is subject to personal and situational constraints 
 - Competence/Performance
+  - Chomsky
   - Competence is the ideal language user's knowledge of the rules of his language
   - Performance is the actual relaxation of this knowledge in utterances 
 ## Phonetics
-#### Three branches of phonetics
+
+#### Three branches of phonetics++++++++
 - Articulately phonetics
   - Articulatory phonetics studies the production of speech sounds 
 - Acoustic phonetics
@@ -129,7 +134,13 @@
   - Nasal cavity
   - Pharyngeal cavity
 #### International phenolic alphabet
+
+谁提出的？OttoＪｅｓｐｅｒｓｅｎ 
+
 #### Classification of consonants
+
+某种音，判断对错
+
 - Manner of articulation 
   - Stop/plosive
   - Nasal 
@@ -147,12 +158,18 @@
   - Velar 
   - Glottal
 #### Classification of vowels 
+
+好像没说
+
 - Criteria
   - The height of tongue raising 
   - The part of tongue that is raised :front ,central or back
   - The length of tenseness of the vowel
   - Lips rounding (rounded vs. unfounded )
 ## Phonology
+
+P36-41
+
 #### Definition of phonology
 - Phenology is the study of the sound patterns and sound systems of languages
 - Its primary aim is to discover the principle that govern how sounds are organized in languages,and to explain the variations that might occur 
@@ -176,22 +193,33 @@
 - The most straightforward way to accomplish this is by way of minimal pair test
 - Minimal pairs 
   - A minimal pair consists of two forms with distinct meanings that differ by only one segment in the same position
-#### Distinctive features 
+#### Distinctive features++++++++ 
 - A particular characteristic high distinguishes one distinctive sound unit of a language from another or one group of sounds from another group
+- Jakobson
 #### Syllable
 - Stress
   - Stress refers to the degree of force used in producing a syllable 
   - Stress is a relative notion 
   - Word stress: words with two syllables
   - Sentence stress: in principle, a stress may fall in any word or syllable 
+
 - Maximal onset principle 
   - When there is a choice as to where to place a consonant, it is put into the onset rather than the coda
-- The syllabic structure 
-  - English syllabic structure : ( ccc) v (cccc)
-  - Chinese syllabic structure :(c) v (c) 
+
+- The syllabic structure++++++++ 
+
+  P48
+
+  - English syllabic structure : (ccc) v (cccc)
+  - Chinese syllabic structure : (c) v (c) 
   - Open syllable 
   - Closed syllable 
+    后面没说？
+
 #### Phonological processes 
+
+－－－－－－－－－－
+
 - Three aspects of a phonological process 
   - A set of sounds that will undergo the process 
   - A set of sounds produced by the process
@@ -215,22 +243,22 @@
 #### What is morphology 
 - Morphology studies the internal structure of words and the rules by which words are formed 
 #### What is morpheme, allomorph 
-- Morpheme 
+- Morpheme P53
   - The minimal (smallest )meaningful unit is known as morpheme 
-  - **The decomposition of words into morphemes illustrates one of the fundamental properties of human language --- (discreteness )</span>
+  - The decomposition of words into morphemes illustrates one of the fundamental properties of human language --- (discreteness )
 - Allomorph 
   - The classification of morphs as allomorphs is based on
       - Similarity of meaning 
       - Complementary distribution 
-  - Morph(语素形式）
+  - Morph（语素形式）
       - The concrete form of a morpheme is called morph
       - Morphs are the actual forms used to realize morlnemes
-  - Allomorph （语素变体）
+  - Allomorph（语素变体）
       - Concretely realized variants of the same morpheme are allomorphs
 #### How can morphemes be classified 
 - Root , stem and affix
   - Root is the base form of a word that cannot be further analyzed without the total loss of identity (that is to say , the root is the part of the word left when all the affixes are removed )
-  - Stem is any morpheme or combination of morphemes to which an inflectional affix can be added (that is to say , stem is the part of the word left when inflectional affixes are removed )
+  - **Stem is any morpheme or combination of morphemes to which an inflectional affix can be added (that is to say , stem is the part of the word left when inflectional affixes are removed)**
   - Affix : the collective term for the types of morphemes that can be used only when added to another morpheme 
   - All affix is bound ---free morpheme 不存在 affix
   - Affixes can be divided into inflectional affix and derivational affix 
@@ -258,6 +286,9 @@
           - Inflections related to English verbs
           - Inflections related to English adjectives 
 #### What is morphonemics 
+
+不考
+
 - Morphophonemics(形态语音学）
   - The analysis and classification of the phonological factors affecting three apperanve of morphemes
   - It studies the interrelationships between phonology and morphology
@@ -283,6 +314,9 @@
   - To avoid the ambiguity of "word" , lexeme is postulated, which is a word in an abstract sense
       - Eat, ears, ate ,eaten , eating these five word forms have one lexeme "eat"
 #### Classification of words
+
+P59 三种
+
 - Function words and content words
   - Function words
       - Function words : words that express grammatical meanings 
@@ -302,6 +336,9 @@
       - Nouns, verbs, adjectives , and many adverbs
       - Content words are open class words
 #### Formation of words
+
+判断，词是怎么生成的P60
+
 - Compounding 
 - Affixation / derivation 
 - Invention 
@@ -314,6 +351,9 @@
 #### Definition of syntax 
 - The study of the rules governing how words are combined to be form sentences in a language , or simply, the study of the formation of sentences 
 #### Syntactic relations
+
+知道这三个，是什么
+
 - Positional relation(word order)
   - Definition : it refers to the sequential arrangement of words in a language 
   - C-selection ( categorical selection )
@@ -334,8 +374,12 @@
   - Sustitution test
   - Movement test
   - Coordination test
-- Tree diagram/ bracketing 
+- Tree diagram/ bracketing
+  别把Composer（P102）混了？？？
+
 #### Endometric and exocentric constructions 
+
+解释 辨别
 
 - Endocentric construction 
 
@@ -363,6 +407,8 @@
 
 #### Syntactic function
 
+没说
+
 - Subject - nouns in the nominative case.
 - Predicate refers to a major constituent of sentence structure in a binary analysis in which all obligatory constituents other than the subject are considered together.
 - Object is sometimes called secondary subject. 
@@ -386,9 +432,9 @@
 
 - Roman Jakobson
 
-  > Language without meaning is meaningless
+  > Language without meaning is meaningless.
 
-#### Meaning of “meaning”
+#### Meaning of "meaning"
 
 - 7 Types of Meaning by Leech
   - Conceptual meaning
@@ -420,7 +466,7 @@
 
       What is communicated through association with words which tend to occur in the environment of another word.
 
-#### Referential theory
+#### Referential theory++++++++
 
 - The referential theory refers to the theory of meaning which relates the meaning of a word to the thing it refers to, or it stands for.
 
@@ -432,7 +478,7 @@
 
     E.g. dinosaur, ghost, God
 
-#### Semantic relations
+#### Semantic relations++++++++
 
 ​	paraphrase, Entailment, Contradiction 
 
@@ -469,7 +515,7 @@
   - A single form has two or more entirely distinct meanings
   - need not have identical spellings
 
-#### Componential analysis
+#### Componential analysis++++++++
 
 - Definetion: the analysis of lexical items in terms of semantic features or semantic components.
 - Explain sense relations between words or sentences
