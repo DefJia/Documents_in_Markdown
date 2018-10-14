@@ -27,7 +27,7 @@
   - Language has two levels of structures: sound and meaning 
   - The sounds can combine with one another to form units that have meanings
 - **Creativity/productivity **
-  - Knowing s language means being able to produce new sentences never spoken before and to understand sentences never heard before.
+  - Knowing a language means being able to produce new sentences never spoken before and to understand sentences never heard before.
   - This ability is a part of the creative aspect of language use
   - The creativity of language comes from duality and recursiveneess 
 - **Displacement **
@@ -35,11 +35,11 @@
   - Displace meant means that human languages enable their languages enable their users to symbolize objects, events and concepts which are not present ( in time and space ) at the moment of communication 
 #### Functions of language+++++++
 - Jakobson
-  - Adresser - emotive
-  - Addresses - conative
+  - Speaker -  emotive
+  - Addressee - conative
   - Context - referential 
   - Message - poetic
-  - Code - metalingual
+  - Code - meta-lingual
   - Contact - phatic 
 - Halliday++
   - Ideational function 
@@ -80,7 +80,7 @@
 
 定义
 
-- Phonetcis
+- Phoneics
 - Phonology
 - Morphology
 - Syntax
@@ -272,7 +272,7 @@ P36-41
   - Derivational morphemes 
       - A derivational morpheme is one that is used to derive a new word
       - E.g rich - enrich   Operate - operation 
-  - Inflectional morhemes
+  - Inflectional morphemes
       - Inflectional morphemes indicate the syntactic relationships between words and thus function as grammatical markets 
       - Process related to inflection 
           - Internal change 
@@ -375,7 +375,6 @@ P59 三种
   - Movement test
   - Coordination test
 - Tree diagram/ bracketing
-  别把Composer（P102）混了？？？
 
 #### Endometric and exocentric constructions 
 
@@ -428,7 +427,9 @@ P59 三种
 
 - Semantics remains the least known area in linguistics compared with other branches of linguistics, for example, phonetics, phonology, morphology and syntax.
 
-- Bloomfield : The statement of meanings is therefore the weak point in language study, and sill remain so until human knowledge advances very far beyond its present state.
+- Bloomfield
+
+  >  The statement of meanings is therefore the weak point in language study, and sill remain so until human knowledge advances very far beyond its present state.
 
 - Roman Jakobson
 
